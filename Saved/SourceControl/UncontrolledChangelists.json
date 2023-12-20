@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Player/BP_MainCharacter.uasset",
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/GM_Platformer3D.uasset",
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/Input/IA_Move.uasset",
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/Input/IA_Jump.uasset",
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/Input/IMC_Player.uasset",
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/Input/IA_Turn.uasset",
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/Input/IA_LookUp.uasset"
+			]
+		}
+	]
+}
