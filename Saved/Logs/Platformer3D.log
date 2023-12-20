@@ -2599,3 +2599,1184 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2023.12.20-19.39.05:688][503]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
 	ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_149
 	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0166
+[2023.12.20-19.45.50:733][727]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.20-19.46.01:273][615]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.20-19.48.53:499][298]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.20-19.48.53:515][298]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.20-19.48.53:526][299]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.20-19.48.57:181][638]LogContentBrowser: Attempting asset rename: NewFolder -> PickUp
+[2023.12.20-19.48.57:181][638]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.20-19.49.02:311][967]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.20-19.49.02:330][967]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.20-19.49.02:350][969]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.20-19.49.04:643][181]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.12.20-19.49.04:643][181]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.20-19.49.27:088][692]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.20-19.49.27:095][692]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.20-19.49.27:103][692]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.20-19.49.27:112][692]LogAutomationController: Ignoring very large delta of 16.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.20-19.49.27:127][694]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.20-19.49.33:836][292]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PickUp
+[2023.12.20-19.49.33:846][292]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.20-19.49.35:724][404]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-19.49.35:725][404]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-19.49.35:725][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-19.49.35:883][404]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.12.20-19.50.12:028][373]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-19.50.30:938][479]BlueprintLog: New page: Compile BP_PickUp
+[2023.12.20-19.50.30:966][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.12.20-19.51.36:096][456]BlueprintLog: New page: Compile BP_PickUp
+[2023.12.20-19.51.36:127][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.20-19.51.38:268][643]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.20-19.51.38:276][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.20-19.51.38:277][643]PIE: New page: PIE session: Map (20 de dez de 2023 13:51:38)
+[2023.12.20-19.51.38:309][643]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.20-19.51.38:310][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001514s)
+[2023.12.20-19.51.38:310][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.001551s)
+[2023.12.20-19.51.38:326][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.20-19.51.38:327][643]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-19.51.38:327][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-19.51.38:328][643]LogAIModule: Creating AISystem for world Map
+[2023.12.20-19.51.38:328][643]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2023.12.20-19.51.38:328][643]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.12.20-19.51.38:328][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.20-19.51.38:328][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.20-19.51.38:328][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.20-19.51.38:328][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.20-19.51.38:328][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.20-19.51.38:328][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.20-19.51.38:328][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.20-19.51.38:328][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.20-19.51.38:329][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.20-19.51.38:329][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.20-19.51.38:329][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.20-19.51.38:331][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.20-19.51.38:359][643]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.20-19.51.38:360][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.20-19.51.38:360][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.20-19.51.38:360][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.20-19.51.38:360][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.12.20-19.51.38:360][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.12.20-19.51.38:363][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.12.20-19.51.38:363][643]LogInit: FAudioDevice initialized with ID 10.
+[2023.12.20-19.51.38:363][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.12.20-19.51.38:363][643]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map'.
+[2023.12.20-19.51.38:363][643]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.20-19.51.38:365][643]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.20-19.51.38:366][643]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.20-16.51.38
+[2023.12.20-19.51.38:366][643]LogWorld: Bringing up level for play took: 0.000527
+[2023.12.20-19.51.38:368][643]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.12.20-19.51.38:371][643]PIE: Server logged in
+[2023.12.20-19.51.38:371][643]PIE: Play in editor total start time 0,095 seconds.
+[2023.12.20-19.51.39:519][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.51.39:520][760]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.20-19.51.39:520][760]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.51.39:520][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.51.39:523][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.20-19.51.39:527][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.51.39:542][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.51.39:542][760]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.20-19.51.39:542][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.20-19.51.39:545][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.20-19.51.39:551][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.20-19.51.39:599][761]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.12.20-19.51.40:378][820]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.51.40:378][820]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.51.40:380][820]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_0
+[2023.12.20-19.51.40:382][820]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_0
+[2023.12.20-19.51.43:465][ 76]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.51.43:465][ 76]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.51.43:467][ 76]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_1
+[2023.12.20-19.51.43:469][ 76]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_1
+[2023.12.20-19.51.46:880][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-19.51.46:936][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.20-19.51.46:978][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.20-19.51.46:984][370]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.20-19.51.46:985][370]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Map1137CA8D4966E6F0E7568D96756C8FBE.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.20-19.51.46:992][370]LogFileHelpers: Saving map 'Map' took 0.056
+[2023.12.20-19.51.46:998][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.75 sec)
+[2023.12.20-19.51.47:000][370]AssetCheck: New page: Asset Save: Map
+[2023.12.20-19.51.47:000][370]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.20-19.51.47:845][443]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.20-19.51.47:858][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.20-19.51.47:858][443]PIE: New page: PIE session: Map (20 de dez de 2023 13:51:47)
+[2023.12.20-19.51.47:889][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.20-19.51.47:890][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001709s)
+[2023.12.20-19.51.47:890][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.001746s)
+[2023.12.20-19.51.47:906][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.20-19.51.47:907][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-19.51.47:907][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-19.51.47:907][443]LogAIModule: Creating AISystem for world Map
+[2023.12.20-19.51.47:908][443]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2023.12.20-19.51.47:908][443]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.12.20-19.51.47:908][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.20-19.51.47:908][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.20-19.51.47:908][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.20-19.51.47:908][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.20-19.51.47:908][443]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.20-19.51.47:908][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.20-19.51.47:908][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.20-19.51.47:908][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.20-19.51.47:908][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.20-19.51.47:909][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.20-19.51.47:909][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.20-19.51.47:911][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.20-19.51.47:939][443]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.20-19.51.47:939][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.20-19.51.47:939][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.20-19.51.47:939][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.20-19.51.47:940][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.12.20-19.51.47:940][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.12.20-19.51.47:942][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.12.20-19.51.47:942][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.12.20-19.51.47:942][443]LogInit: FAudioDevice initialized with ID 11.
+[2023.12.20-19.51.47:942][443]LogAudio: Display: Audio Device (ID: 11) registered with world 'Map'.
+[2023.12.20-19.51.47:942][443]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.20-19.51.47:945][443]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.20-19.51.47:945][443]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.20-16.51.47
+[2023.12.20-19.51.47:945][443]LogWorld: Bringing up level for play took: 0.000577
+[2023.12.20-19.51.47:948][443]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.12.20-19.51.47:950][443]PIE: Server logged in
+[2023.12.20-19.51.47:951][443]PIE: Play in editor total start time 0,098 seconds.
+[2023.12.20-19.51.52:319][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.51.52:319][898]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.20-19.51.52:319][898]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.51.52:319][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.51.52:324][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.20-19.51.52:329][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.51.52:343][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.51.52:344][898]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.20-19.51.52:344][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.20-19.51.52:345][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.20-19.51.52:354][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.20-19.51.52:421][899]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.12.20-19.51.55:911][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-19.51.55:985][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUp/BP_PickUp" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset" SILENT=true
+[2023.12.20-19.51.55:990][241]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUp/BP_PickUp
+[2023.12.20-19.51.55:990][241]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUpA028C66947374578A997DE8DB9A55BEA.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset'
+[2023.12.20-19.51.56:000][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.84 sec)
+[2023.12.20-19.51.56:000][241]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-19.51.56:000][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-19.52.25:779][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-19.52.25:856][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUp/BP_PickUp" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset" SILENT=true
+[2023.12.20-19.52.25:884][508]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUp/BP_PickUp
+[2023.12.20-19.52.25:885][508]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUp70F8BD174B2EBCEFBFB4CAB93CD16DB7.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset'
+[2023.12.20-19.52.25:894][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.95 sec)
+[2023.12.20-19.52.25:896][508]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-19.52.25:896][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-19.52.27:309][658]BlueprintLog: New page: Compile BP_PickUp
+[2023.12.20-19.52.27:344][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.20-19.52.29:301][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.52.29:301][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.52.29:301][802]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_2
+[2023.12.20-19.52.29:303][802]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_2
+[2023.12.20-19.52.30:749][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.52.30:749][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.52.30:752][917]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_3
+[2023.12.20-19.52.30:753][917]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_3
+[2023.12.20-19.52.49:021][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-19.52.49:098][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUp/BP_PickUp" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset" SILENT=true
+[2023.12.20-19.52.49:103][608]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUp/BP_PickUp
+[2023.12.20-19.52.49:104][608]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUp2FB5881A4E0F746426FB18B1FFACE44E.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset'
+[2023.12.20-19.52.49:111][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.04 sec)
+[2023.12.20-19.52.49:112][608]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-19.52.49:113][608]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-19.52.58:139][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-19.52.58:186][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUp/BP_PickUp" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset" SILENT=true
+[2023.12.20-19.52.58:250][560]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUp/BP_PickUp
+[2023.12.20-19.52.58:251][560]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUpC58720D64A177F01D99727B9DB2EDDBF.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset'
+[2023.12.20-19.52.58:258][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 2.16 sec)
+[2023.12.20-19.52.58:260][560]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-19.52.58:260][560]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-19.53.00:976][794]Cmd: DELETE
+[2023.12.20-19.53.00:977][794]Cmd: ACTOR DELETE
+[2023.12.20-19.53.00:984][794]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-19.53.01:001][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.20-19.53.01:004][794]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2023.12.20-19.53.01:583][844]Cmd: DELETE
+[2023.12.20-19.53.01:583][844]Cmd: ACTOR DELETE
+[2023.12.20-19.53.01:585][844]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-19.53.01:602][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.20-19.53.01:604][844]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.12.20-19.53.02:285][894]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.53.02:285][894]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.53.02:287][894]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_4
+[2023.12.20-19.53.02:288][894]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_4
+[2023.12.20-19.53.03:193][971]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.53.03:193][971]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.53.03:195][971]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_5
+[2023.12.20-19.53.03:196][971]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_5
+[2023.12.20-19.53.04:433][ 77]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.20-19.53.04:441][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.20-19.53.04:441][ 77]PIE: New page: PIE session: Map (20 de dez de 2023 13:53:04)
+[2023.12.20-19.53.04:469][ 77]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.20-19.53.04:470][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001753s)
+[2023.12.20-19.53.04:470][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.001791s)
+[2023.12.20-19.53.04:487][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.12.20-19.53.04:489][ 77]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-19.53.04:489][ 77]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-19.53.04:490][ 77]LogAIModule: Creating AISystem for world Map
+[2023.12.20-19.53.04:490][ 77]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2023.12.20-19.53.04:490][ 77]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.20-19.53.04:490][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.20-19.53.04:490][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.20-19.53.04:490][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.20-19.53.04:490][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.20-19.53.04:490][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.20-19.53.04:490][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.20-19.53.04:490][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.20-19.53.04:490][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.20-19.53.04:491][ 77]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.20-19.53.04:491][ 77]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.20-19.53.04:491][ 77]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.20-19.53.04:493][ 77]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.20-19.53.04:521][ 77]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.20-19.53.04:521][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.20-19.53.04:521][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.20-19.53.04:521][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.20-19.53.04:522][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.12.20-19.53.04:522][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.12.20-19.53.04:524][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.12.20-19.53.04:524][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.12.20-19.53.04:524][ 77]LogInit: FAudioDevice initialized with ID 12.
+[2023.12.20-19.53.04:524][ 77]LogAudio: Display: Audio Device (ID: 12) registered with world 'Map'.
+[2023.12.20-19.53.04:524][ 77]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.20-19.53.04:526][ 77]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.20-19.53.04:527][ 77]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.20-16.53.04
+[2023.12.20-19.53.04:527][ 77]LogWorld: Bringing up level for play took: 0.000562
+[2023.12.20-19.53.04:529][ 77]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.12.20-19.53.04:531][ 77]PIE: Server logged in
+[2023.12.20-19.53.04:532][ 77]PIE: Play in editor total start time 0,092 seconds.
+[2023.12.20-19.53.06:359][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.53.06:359][268]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.20-19.53.06:359][268]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.53.06:359][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.06:363][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.20-19.53.06:367][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.06:382][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.20-19.53.06:382][268]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.20-19.53.06:382][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.20-19.53.06:384][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.20-19.53.06:388][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.53.06:391][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.20-19.53.06:475][269]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.12.20-19.53.07:515][357]LogViewport: Scene viewport resized to 1285x460, mode Windowed.
+[2023.12.20-19.53.07:558][358]LogViewport: Scene viewport resized to 1285x464, mode Windowed.
+[2023.12.20-19.53.07:592][359]LogViewport: Scene viewport resized to 1285x504, mode Windowed.
+[2023.12.20-19.53.07:626][360]LogViewport: Scene viewport resized to 1285x556, mode Windowed.
+[2023.12.20-19.53.07:662][361]LogViewport: Scene viewport resized to 1285x597, mode Windowed.
+[2023.12.20-19.53.07:702][362]LogViewport: Scene viewport resized to 1285x632, mode Windowed.
+[2023.12.20-19.53.07:738][363]LogViewport: Scene viewport resized to 1285x662, mode Windowed.
+[2023.12.20-19.53.07:774][364]LogViewport: Scene viewport resized to 1285x678, mode Windowed.
+[2023.12.20-19.53.07:808][365]LogViewport: Scene viewport resized to 1285x685, mode Windowed.
+[2023.12.20-19.53.07:845][366]LogViewport: Scene viewport resized to 1285x686, mode Windowed.
+[2023.12.20-19.53.08:793][432]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.20-19.53.08:800][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.20-19.53.08:801][432]PIE: New page: PIE session: Map (20 de dez de 2023 13:53:08)
+[2023.12.20-19.53.08:801][432]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.20-19.53.08:802][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001796s)
+[2023.12.20-19.53.08:802][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.001833s)
+[2023.12.20-19.53.08:820][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.20-19.53.08:822][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-19.53.08:822][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-19.53.08:823][432]LogAIModule: Creating AISystem for world Map
+[2023.12.20-19.53.08:823][432]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2023.12.20-19.53.08:823][432]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.12.20-19.53.08:823][432]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.20-19.53.08:823][432]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.20-19.53.08:823][432]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.20-19.53.08:823][432]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.20-19.53.08:823][432]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.20-19.53.08:823][432]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.20-19.53.08:823][432]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.20-19.53.08:823][432]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.20-19.53.08:824][432]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.20-19.53.08:824][432]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.20-19.53.08:824][432]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.20-19.53.08:826][432]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.20-19.53.08:854][432]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.20-19.53.08:854][432]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.20-19.53.08:854][432]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.20-19.53.08:854][432]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.20-19.53.08:854][432]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.12.20-19.53.08:854][432]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.12.20-19.53.08:857][432]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.12.20-19.53.08:857][432]LogInit: FAudioDevice initialized with ID 13.
+[2023.12.20-19.53.08:857][432]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.12.20-19.53.08:857][432]LogAudio: Display: Audio Device (ID: 13) registered with world 'Map'.
+[2023.12.20-19.53.08:857][432]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.20-19.53.08:860][432]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.20-19.53.08:860][432]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.20-16.53.08
+[2023.12.20-19.53.08:860][432]LogWorld: Bringing up level for play took: 0.000593
+[2023.12.20-19.53.08:863][432]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.12.20-19.53.08:865][432]PIE: Server logged in
+[2023.12.20-19.53.08:865][432]PIE: Play in editor total start time 0,065 seconds.
+[2023.12.20-19.53.30:359][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.53.30:359][239]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.20-19.53.30:359][239]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.53.30:360][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.30:363][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.20-19.53.30:367][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.30:382][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.53.30:382][239]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.20-19.53.30:382][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.20-19.53.30:384][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.20-19.53.30:391][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.20-19.53.30:461][240]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.12.20-19.53.33:850][491]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.53.33:850][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.33:860][491]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.53.33:860][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.33:917][491]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.53.33:917][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.34:278][522]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.53.34:278][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.35:330][611]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.53.35:330][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.35:352][611]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.53.35:352][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.35:404][611]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.53.35:404][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.53.37:909][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-19.53.37:968][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.20-19.53.38:050][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.20-19.53.38:062][839]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.20-19.53.38:062][839]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Map94CA347148D3E881CAB7C289DB03C4BB.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.20-19.53.38:068][839]LogFileHelpers: Saving map 'Map' took 0.101
+[2023.12.20-19.53.38:074][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 2.33 sec)
+[2023.12.20-19.53.38:074][839]AssetCheck: New page: Asset Save: Map
+[2023.12.20-19.53.38:075][839]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.20-19.53.39:144][921]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-19.53.39:144][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-19.53.39:144][921]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-19.59.03:633][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-19.59.03:664][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUp/BP_PickUp" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset" SILENT=true
+[2023.12.20-19.59.03:669][243]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUp/BP_PickUp
+[2023.12.20-19.59.03:670][243]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUpD51BA3E046226C766A59DEA014E55E27.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset'
+[2023.12.20-19.59.03:676][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.37 sec)
+[2023.12.20-19.59.03:678][243]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-19.59.03:678][243]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-19.59.09:257][770]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.09:257][770]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.09:259][770]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_6
+[2023.12.20-19.59.09:260][770]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_6
+[2023.12.20-19.59.09:607][794]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.09:607][794]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.09:609][794]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_7
+[2023.12.20-19.59.09:611][794]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_7
+[2023.12.20-19.59.10:223][824]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.10:223][824]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.10:224][824]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_8
+[2023.12.20-19.59.10:226][824]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_8
+[2023.12.20-19.59.10:363][831]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.10:363][831]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.10:365][831]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_9
+[2023.12.20-19.59.10:367][831]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_9
+[2023.12.20-19.59.11:199][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.11:199][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.11:200][884]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_10
+[2023.12.20-19.59.11:202][884]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_10
+[2023.12.20-19.59.11:357][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.11:357][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-19.59.11:359][893]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_11
+[2023.12.20-19.59.11:361][893]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_11
+[2023.12.20-19.59.12:362][971]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.20-19.59.12:371][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.20-19.59.12:371][971]PIE: New page: PIE session: Map (20 de dez de 2023 13:59:12)
+[2023.12.20-19.59.12:371][971]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.20-19.59.12:373][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002395s)
+[2023.12.20-19.59.12:373][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.002433s)
+[2023.12.20-19.59.12:392][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.12.20-19.59.12:396][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-19.59.12:396][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-19.59.12:396][971]LogAIModule: Creating AISystem for world Map
+[2023.12.20-19.59.12:396][971]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2023.12.20-19.59.12:396][971]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.12.20-19.59.12:396][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.20-19.59.12:397][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.20-19.59.12:397][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.20-19.59.12:397][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.20-19.59.12:397][971]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.20-19.59.12:397][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.20-19.59.12:397][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.20-19.59.12:397][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.20-19.59.12:397][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.20-19.59.12:397][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.20-19.59.12:397][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.20-19.59.12:400][971]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.20-19.59.12:428][971]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.20-19.59.12:429][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.20-19.59.12:429][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.20-19.59.12:429][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.20-19.59.12:429][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.12.20-19.59.12:429][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.12.20-19.59.12:431][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.12.20-19.59.12:431][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.12.20-19.59.12:431][971]LogInit: FAudioDevice initialized with ID 14.
+[2023.12.20-19.59.12:431][971]LogAudio: Display: Audio Device (ID: 14) registered with world 'Map'.
+[2023.12.20-19.59.12:431][971]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.20-19.59.12:434][971]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.20-19.59.12:435][971]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.20-16.59.12
+[2023.12.20-19.59.12:435][971]LogWorld: Bringing up level for play took: 0.000846
+[2023.12.20-19.59.12:437][971]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.12.20-19.59.12:440][971]PIE: Server logged in
+[2023.12.20-19.59.12:441][971]PIE: Play in editor total start time 0,07 seconds.
+[2023.12.20-19.59.29:069][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.59.29:069][362]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.20-19.59.29:069][362]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-19.59.29:069][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.59.29:072][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.20-19.59.29:076][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-19.59.29:091][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.20-19.59.29:091][362]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.20-19.59.29:091][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.20-19.59.29:094][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.20-19.59.29:098][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-19.59.29:100][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.20-19.59.29:155][363]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.12.20-20.01.37:934][951]LogViewport: Scene viewport resized to 1285x685, mode Windowed.
+[2023.12.20-20.01.37:980][952]LogViewport: Scene viewport resized to 1285x647, mode Windowed.
+[2023.12.20-20.01.38:010][953]LogViewport: Scene viewport resized to 1285x620, mode Windowed.
+[2023.12.20-20.01.38:041][954]LogViewport: Scene viewport resized to 1285x593, mode Windowed.
+[2023.12.20-20.01.38:074][955]LogViewport: Scene viewport resized to 1285x570, mode Windowed.
+[2023.12.20-20.01.38:106][956]LogViewport: Scene viewport resized to 1285x547, mode Windowed.
+[2023.12.20-20.01.38:136][957]LogViewport: Scene viewport resized to 1285x529, mode Windowed.
+[2023.12.20-20.01.38:167][958]LogViewport: Scene viewport resized to 1285x524, mode Windowed.
+[2023.12.20-20.01.38:214][961]LogViewport: Scene viewport resized to 1285x523, mode Windowed.
+[2023.12.20-20.01.38:246][962]LogViewport: Scene viewport resized to 1285x520, mode Windowed.
+[2023.12.20-20.01.38:273][963]LogViewport: Scene viewport resized to 1285x518, mode Windowed.
+[2023.12.20-20.01.45:464][675]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.12.20-20.01.45:464][675]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.SKEL_BP_PickUp_C' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.SKEL_BP_PickUp_C:UserConstructionScript' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.SKEL_BP_PickUp_C:BndEvt__BP_PickUp_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.SKEL_BP_PickUp_C:ReceiveTick' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.SKEL_BP_PickUp_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:784][786]LogMetaData: Removing '/Game/3DPlatformer/Core/PickUp/BP_PickUp.SKEL_BP_PickUp_C:ReceiveBeginPlay' ref from Metadata '/Game/3DPlatformer/PickUp/BP_PickUp.PackageMetaData'
+[2023.12.20-20.01.46:801][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.01.46:851][786]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_PickUp
+[2023.12.20-20.01.46:851][786]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUpF45BCC714808910AE033029199D9412F.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_PickUp.uasset'
+[2023.12.20-20.01.46:859][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUp/BP_PickUp" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset" SILENT=true
+[2023.12.20-20.01.46:884][786]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUp/BP_PickUp
+[2023.12.20-20.01.46:885][786]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUp78F97D354010EE3E70FFEB9BB9795BA9.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUp/BP_PickUp.uasset'
+[2023.12.20-20.01.46:894][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.47 sec)
+[2023.12.20-20.01.46:906][786]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.20-20.01.46:906][786]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-20.01.46:906][786]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-20.01.46:906][786]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.01.46:906][786]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/PickUp/BP_PickUp.Default__BP_PickUp_C
+[2023.12.20-20.01.54:574][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.20-20.01.56:097][550]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.20-20.01.56:108][550]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/3DPlatformer/PickUp/BP_PickUp.Default__BP_PickUp_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/3DPlatformer/PickUp/BP_PickUp.BP_PickUp_C
+	Asset Type: ObjectRedirector
+[2023.12.20-20.01.56:465][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.12.20-20.01.56:786][551]LogAutomationController: Ignoring very large delta of 2.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.20-20.02.01:469][976]Cmd: DELETE
+[2023.12.20-20.02.01:469][976]Cmd: ACTOR DELETE
+[2023.12.20-20.02.01:471][976]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.02.01:472][976]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.02.01:473][976]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.02.01:473][976]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.02.01:491][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.12.20-20.02.01:495][976]LogEditorActor: Deleted 4 Actors (0.025 secs)
+[2023.12.20-20.02.05:606][333]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_150
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0166
+[2023.12.20-20.02.06:514][399]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.06:515][399]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.06:516][399]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_12
+[2023.12.20-20.02.06:517][399]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_12
+[2023.12.20-20.02.07:052][450]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.07:052][450]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.07:055][450]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_13
+[2023.12.20-20.02.07:056][450]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_13
+[2023.12.20-20.02.07:745][498]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.07:745][498]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.07:746][498]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_14
+[2023.12.20-20.02.07:748][498]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_14
+[2023.12.20-20.02.07:850][504]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.07:851][504]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.07:853][504]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_15
+[2023.12.20-20.02.07:854][504]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_15
+[2023.12.20-20.02.08:897][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.08:897][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.08:898][578]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_16
+[2023.12.20-20.02.08:900][578]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_16
+[2023.12.20-20.02.09:253][606]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.09:254][606]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.09:256][606]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_17
+[2023.12.20-20.02.09:257][606]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_17
+[2023.12.20-20.02.12:001][865]Cmd: DELETE
+[2023.12.20-20.02.12:001][865]Cmd: ACTOR DELETE
+[2023.12.20-20.02.12:003][865]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.02.12:021][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.20-20.02.12:025][865]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.12.20-20.02.12:916][935]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.12:916][935]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.12:918][935]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_18
+[2023.12.20-20.02.12:919][935]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_18
+[2023.12.20-20.02.13:374][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.13:374][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.13:376][978]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_19
+[2023.12.20-20.02.13:377][978]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_19
+[2023.12.20-20.02.14:170][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.14:170][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.14:172][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_20
+[2023.12.20-20.02.14:174][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_20
+[2023.12.20-20.02.14:488][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.14:488][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.14:491][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_21
+[2023.12.20-20.02.14:492][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_21
+[2023.12.20-20.02.15:280][111]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.15:280][111]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.15:282][111]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_22
+[2023.12.20-20.02.15:284][111]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_22
+[2023.12.20-20.02.15:539][125]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.15:539][125]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.15:542][125]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_23
+[2023.12.20-20.02.15:543][125]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_23
+[2023.12.20-20.02.16:363][185]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.16:363][185]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.16:364][185]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_24
+[2023.12.20-20.02.16:366][185]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_24
+[2023.12.20-20.02.16:522][194]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.16:522][194]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp_C
+[2023.12.20-20.02.16:525][194]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_25
+[2023.12.20-20.02.16:526][194]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp as actor: BP_PickUp_C /Game/Map.Map:PersistentLevel.BP_PickUp_C_25
+[2023.12.20-20.02.23:741][879]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.20-20.02.23:753][879]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.20-20.02.23:765][880]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.20-20.02.25:392][ 47]LogContentBrowser: Attempting asset rename: NewFolder -> Goal
+[2023.12.20-20.02.25:392][ 47]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.20-20.02.39:929][727]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.20-20.02.39:936][727]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.20-20.02.39:943][727]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.20-20.02.39:963][729]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.20-20.02.43:647][ 99]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Goal
+[2023.12.20-20.02.43:653][ 99]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.20-20.02.45:186][252]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal
+[2023.12.20-20.02.45:186][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.02.45:186][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-20.02.45:326][252]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.12.20-20.02.53:324][ 90]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TeachersMarketplace/Assets/Architecture/Kit_Wall/Mesh/SM_Kit_Wall_Door) ...
+[2023.12.20-20.02.53:334][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.04.38:387][150]BlueprintLog: New page: Compile BP_Goal
+[2023.12.20-20.04.38:516][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.20-20.04.39:326][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.04.39:386][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/Core/Goal/BP_Goal" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Goal/BP_Goal.uasset" SILENT=true
+[2023.12.20-20.04.39:390][225]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Goal/BP_Goal
+[2023.12.20-20.04.39:390][225]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Goal15F5B6BB46AC9B23A65AB09FF20E97DF.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Goal/BP_Goal.uasset'
+[2023.12.20-20.04.39:398][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.54 sec)
+[2023.12.20-20.04.39:399][225]AssetCheck: New page: Asset Save: BP_Goal
+[2023.12.20-20.04.39:399][225]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal
+[2023.12.20-20.05.01:031][639]BlueprintLog: New page: Compile BP_Goal
+[2023.12.20-20.05.01:057][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.20-20.05.01:686][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.05.01:781][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/Core/Goal/BP_Goal" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Goal/BP_Goal.uasset" SILENT=true
+[2023.12.20-20.05.01:787][699]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Goal/BP_Goal
+[2023.12.20-20.05.01:788][699]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Goal794BB33047DD2B10677777BA3DD6EBEA.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Goal/BP_Goal.uasset'
+[2023.12.20-20.05.01:794][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.64 sec)
+[2023.12.20-20.05.01:796][699]AssetCheck: New page: Asset Save: BP_Goal
+[2023.12.20-20.05.01:796][699]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal
+[2023.12.20-20.05.03:019][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.05.03:060][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.20-20.05.03:101][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.20-20.05.03:110][812]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.20-20.05.03:111][812]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/MapE42E4F214FE77F26C27860959F7AD0B5.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.20-20.05.03:117][812]LogFileHelpers: Saving map 'Map' took 0.057
+[2023.12.20-20.05.03:124][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.75 sec)
+[2023.12.20-20.05.03:125][812]AssetCheck: New page: Asset Save: Map
+[2023.12.20-20.05.03:125][812]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.20-20.05.04:253][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal_C
+[2023.12.20-20.05.04:253][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal_C
+[2023.12.20-20.05.04:255][893]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal as actor: BP_Goal_C /Game/Map.Map:PersistentLevel.BP_Goal_C_0
+[2023.12.20-20.05.04:257][893]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal as actor: BP_Goal_C /Game/Map.Map:PersistentLevel.BP_Goal_C_0
+[2023.12.20-20.05.06:249][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal_C
+[2023.12.20-20.05.06:249][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal_C
+[2023.12.20-20.05.06:252][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal as actor: BP_Goal_C /Game/Map.Map:PersistentLevel.BP_Goal_C_1
+[2023.12.20-20.05.06:254][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal as actor: BP_Goal_C /Game/Map.Map:PersistentLevel.BP_Goal_C_1
+[2023.12.20-20.05.07:706][205]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.20-20.05.07:719][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.20-20.05.07:719][205]PIE: New page: PIE session: Map (20 de dez de 2023 14:05:07)
+[2023.12.20-20.05.07:759][205]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.20-20.05.07:761][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002697s)
+[2023.12.20-20.05.07:761][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.002744s)
+[2023.12.20-20.05.07:779][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.12.20-20.05.07:781][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.05.07:781][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-20.05.07:781][205]LogAIModule: Creating AISystem for world Map
+[2023.12.20-20.05.07:782][205]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2023.12.20-20.05.07:782][205]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.12.20-20.05.07:782][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.20-20.05.07:782][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.20-20.05.07:782][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.20-20.05.07:782][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.20-20.05.07:782][205]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.20-20.05.07:782][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.20-20.05.07:782][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.20-20.05.07:782][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.20-20.05.07:782][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.20-20.05.07:782][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.20-20.05.07:782][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.20-20.05.07:784][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.20-20.05.07:813][205]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.20-20.05.07:813][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.20-20.05.07:813][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.20-20.05.07:813][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.20-20.05.07:814][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.12.20-20.05.07:815][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.12.20-20.05.07:816][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.12.20-20.05.07:816][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.12.20-20.05.07:816][205]LogInit: FAudioDevice initialized with ID 15.
+[2023.12.20-20.05.07:816][205]LogAudio: Display: Audio Device (ID: 15) registered with world 'Map'.
+[2023.12.20-20.05.07:816][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.20-20.05.07:819][205]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.20-20.05.07:820][205]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.20-17.05.07
+[2023.12.20-20.05.07:820][205]LogWorld: Bringing up level for play took: 0.001061
+[2023.12.20-20.05.07:823][205]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.12.20-20.05.07:826][205]PIE: Server logged in
+[2023.12.20-20.05.07:827][205]PIE: Play in editor total start time 0,112 seconds.
+[2023.12.20-20.05.21:710][579]LogBlueprintUserMessages: [BP_Goal_C_1] YOU WON!
+[2023.12.20-20.05.26:596][ 63]LogBlueprintUserMessages: [BP_Goal_C_1] YOU WON!
+[2023.12.20-20.05.29:875][389]LogBlueprintUserMessages: [BP_Goal_C_1] YOU WON!
+[2023.12.20-20.05.32:689][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-20.05.32:689][665]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.20-20.05.32:689][665]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-20.05.32:689][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-20.05.32:694][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.20-20.05.32:699][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-20.05.32:711][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.20-20.05.32:712][665]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.20-20.05.32:712][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.20-20.05.32:713][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.20-20.05.32:718][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-20.05.32:720][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.20-20.05.32:779][666]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.12.20-20.06.02:306][ 10]BlueprintLog: New page: Compile BP_Goal
+[2023.12.20-20.06.02:348][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.12.20-20.06.02:953][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.06.03:020][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/Core/Goal/BP_Goal" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Goal/BP_Goal.uasset" SILENT=true
+[2023.12.20-20.06.03:024][ 55]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Goal/BP_Goal
+[2023.12.20-20.06.03:025][ 55]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Goal97820C854C21143CFF2E1A98486ACDA6.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Goal/BP_Goal.uasset'
+[2023.12.20-20.06.03:032][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.83 sec)
+[2023.12.20-20.06.03:034][ 55]AssetCheck: New page: Asset Save: BP_Goal
+[2023.12.20-20.06.03:034][ 55]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal
+[2023.12.20-20.06.04:014][146]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.20-20.06.04:022][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.20-20.06.04:022][146]PIE: New page: PIE session: Map (20 de dez de 2023 14:06:04)
+[2023.12.20-20.06.04:059][146]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.20-20.06.04:062][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002430s)
+[2023.12.20-20.06.04:062][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.002476s)
+[2023.12.20-20.06.04:077][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.20-20.06.04:080][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.06.04:080][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-20.06.04:080][146]LogAIModule: Creating AISystem for world Map
+[2023.12.20-20.06.04:081][146]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2023.12.20-20.06.04:081][146]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.12.20-20.06.04:081][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.20-20.06.04:081][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.20-20.06.04:081][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.20-20.06.04:081][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.20-20.06.04:081][146]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.20-20.06.04:081][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.20-20.06.04:081][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.20-20.06.04:081][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.20-20.06.04:081][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.20-20.06.04:081][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.20-20.06.04:081][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.20-20.06.04:084][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.20-20.06.04:112][146]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.20-20.06.04:112][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.20-20.06.04:112][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.20-20.06.04:112][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.20-20.06.04:113][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.12.20-20.06.04:113][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.12.20-20.06.04:115][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.12.20-20.06.04:115][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.12.20-20.06.04:115][146]LogInit: FAudioDevice initialized with ID 16.
+[2023.12.20-20.06.04:115][146]LogAudio: Display: Audio Device (ID: 16) registered with world 'Map'.
+[2023.12.20-20.06.04:115][146]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.20-20.06.04:118][146]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.20-20.06.04:119][146]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.20-17.06.04
+[2023.12.20-20.06.04:119][146]LogWorld: Bringing up level for play took: 0.001012
+[2023.12.20-20.06.04:122][146]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.12.20-20.06.04:124][146]PIE: Server logged in
+[2023.12.20-20.06.04:125][146]PIE: Play in editor total start time 0,102 seconds.
+[2023.12.20-20.06.10:429][762]LogBlueprintUserMessages: [BP_Goal_C_1] YOU WON!
+[2023.12.20-20.06.11:220][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-20.06.11:220][837]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.20-20.06.11:220][837]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-20.06.11:220][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-20.06.11:224][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.20-20.06.11:229][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-20.06.11:243][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.20-20.06.11:243][837]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.20-20.06.11:243][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.20-20.06.11:245][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.20-20.06.11:250][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-20.06.11:253][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.20-20.06.11:311][838]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.12.20-20.08.59:389][818]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.359 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23606 files in 25456 folders with total size 1605 MiB.
+[2023.12.20-20.10.58:501][972]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.12.20-20.11.08:125][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.11.08:173][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.20-20.11.08:215][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.20-20.11.08:225][855]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.20-20.11.08:226][855]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/MapCA64947B4119DF65DE5CAB94CEA7C55A.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.20-20.11.08:233][855]LogFileHelpers: Saving map 'Map' took 0.061
+[2023.12.20-20.11.08:239][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 2.94 sec)
+[2023.12.20-20.11.08:241][855]AssetCheck: New page: Asset Save: Map
+[2023.12.20-20.11.08:241][855]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.20-20.14.31:501][352]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_151
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0166
+[2023.12.20-20.21.08:305][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.20-20.21.08:307][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map' took 0.021
+[2023.12.20-20.31.08:805][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.20-20.31.08:807][ 70]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map' took 0.017
+[2023.12.20-20.39.55:549][984]LogContentBrowser: Deferred new asset file creation: BP_PickUp_Child
+[2023.12.20-20.39.55:574][984]LogContentBrowser: Creating deferred item: BP_PickUp_Child
+[2023.12.20-20.39.55:586][985]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PickUp_Child).
+[2023.12.20-20.39.58:900][307]LogContentBrowser: Attempting asset rename: BP_PickUp_Child -> BP_Coin
+[2023.12.20-20.39.58:909][307]LogContentBrowser: End creating deferred item BP_PickUp_Child
+[2023.12.20-20.39.58:910][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.40.01:707][534]LogContentBrowser: Deferred new asset file creation: BP_PickUp_Child
+[2023.12.20-20.40.01:741][534]LogContentBrowser: Creating deferred item: BP_PickUp_Child
+[2023.12.20-20.40.01:753][535]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PickUp_Child).
+[2023.12.20-20.40.05:864][932]LogContentBrowser: Attempting asset rename: BP_PickUp_Child -> BP_Key
+[2023.12.20-20.40.05:871][932]LogContentBrowser: End creating deferred item BP_PickUp_Child
+[2023.12.20-20.40.05:873][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.40.07:851][ 79]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key
+[2023.12.20-20.40.07:851][ 79]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.40.07:851][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-20.40.08:008][ 79]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.12.20-20.40.14:430][728]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TeachersMarketplace/Assets/Props/Powerups/Powerup_A/Mesh/SM_Key) ...
+[2023.12.20-20.40.27:869][255]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.20-20.40.34:352][796]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.12.20-20.40.49:728][337]LogSlate: Window 'Delete Component' being destroyed
+[2023.12.20-20.40.49:744][337]LogBlueprint: Error: [AssetLog] : [Compiler] The component that  On Component Begin Overlap (Sphere)  was bound to has been deleted! This node is no longer valid
+[2023.12.20-20.40.49:745][337]BlueprintLog: New page: Removed Owner of Component Bound Event
+[2023.12.20-20.40.49:745][337]BlueprintLog: Error: The component that  On Component Begin Overlap (Sphere)  was bound to has been deleted! This node is no longer valid
+[2023.12.20-20.41.08:634][385]BlueprintLog: New page: Compile BP_PickUp
+[2023.12.20-20.41.08:683][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.12.20-20.41.09:297][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.41.09:364][446]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_PickUp
+[2023.12.20-20.41.09:365][446]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUp6697594A4B6C4CB87EA79C97659F9F2E.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_PickUp.uasset'
+[2023.12.20-20.41.09:372][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 3.02 sec)
+[2023.12.20-20.41.09:372][446]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-20.41.09:372][446]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-20.41.16:146][197]Cmd: TRANSACTION UNDO
+[2023.12.20-20.41.16:146][197]LogEditorTransaction: Undo Edit Sphere Radius
+[2023.12.20-20.41.22:834][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.41.22:899][896]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Key
+[2023.12.20-20.41.22:899][896]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_KeyD16FCFE74776275F2DA3128A1195749A.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Key.uasset'
+[2023.12.20-20.41.22:909][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 3.09 sec)
+[2023.12.20-20.41.22:909][896]AssetCheck: New page: Asset Save: BP_Key
+[2023.12.20-20.41.22:910][896]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key
+[2023.12.20-20.41.24:275][ 49]BlueprintLog: New page: Compile BP_Key
+[2023.12.20-20.41.24:304][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.20-20.41.25:311][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.41.25:381][148]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Key
+[2023.12.20-20.41.25:382][148]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_KeyF70F08C7417E0CD775B6FF9FDFEE5479.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Key.uasset'
+[2023.12.20-20.41.25:390][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.17 sec)
+[2023.12.20-20.41.25:391][148]AssetCheck: New page: Asset Save: BP_Key
+[2023.12.20-20.41.25:391][148]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key
+[2023.12.20-20.41.27:657][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.41.27:717][399]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_PickUp
+[2023.12.20-20.41.27:718][399]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUp4FA5A15A432D559BD67E90AF85057A74.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_PickUp.uasset'
+[2023.12.20-20.41.27:726][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.24 sec)
+[2023.12.20-20.41.27:727][399]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-20.41.27:727][399]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-20.41.29:337][537]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin
+[2023.12.20-20.41.29:337][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.41.29:337][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-20.41.29:497][537]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.12.20-20.41.44:092][164]BlueprintLog: New page: Compile BP_PickUp
+[2023.12.20-20.41.44:135][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.20-20.41.44:927][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.41.44:996][233]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_PickUp
+[2023.12.20-20.41.44:997][233]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUpA572EBA245B49564D5593A82741AEA3E.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_PickUp.uasset'
+[2023.12.20-20.41.45:004][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 3.32 sec)
+[2023.12.20-20.41.45:005][233]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-20.41.45:005][233]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-20.41.55:627][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.41.55:683][397]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Coin
+[2023.12.20-20.41.55:683][397]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Coin720D70D042A8E711ACA279ABF493421C.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Coin.uasset'
+[2023.12.20-20.41.55:692][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.38 sec)
+[2023.12.20-20.41.55:693][397]AssetCheck: New page: Asset Save: BP_Coin
+[2023.12.20-20.41.55:693][397]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin
+[2023.12.20-20.41.57:793][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.41.57:848][622]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Key
+[2023.12.20-20.41.57:849][622]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Key796C76074F866AFFAF16DD9F5BD114B8.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Key.uasset'
+[2023.12.20-20.41.57:857][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 3.45 sec)
+[2023.12.20-20.41.57:858][622]AssetCheck: New page: Asset Save: BP_Key
+[2023.12.20-20.41.57:858][622]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key
+[2023.12.20-20.42.08:602][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.42.08:670][872]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Key
+[2023.12.20-20.42.08:671][872]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Key98B14DD4419671B0C728D0B1ECF69E2C.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Key.uasset'
+[2023.12.20-20.42.08:679][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 3.52 sec)
+[2023.12.20-20.42.08:680][872]AssetCheck: New page: Asset Save: BP_Key
+[2023.12.20-20.42.08:680][872]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key
+[2023.12.20-20.42.13:986][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.42.14:051][488]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Coin
+[2023.12.20-20.42.14:052][488]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Coin0BBF152C4C2194AF707FACAFF7D7C5ED.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Coin.uasset'
+[2023.12.20-20.42.14:061][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 3.60 sec)
+[2023.12.20-20.42.14:061][488]AssetCheck: New page: Asset Save: BP_Coin
+[2023.12.20-20.42.14:061][488]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin
+[2023.12.20-20.42.15:319][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.42.15:402][620]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Coin
+[2023.12.20-20.42.15:403][620]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Coin614467C444D3530381230F844C718521.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Coin.uasset'
+[2023.12.20-20.42.15:411][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.69 sec)
+[2023.12.20-20.42.15:412][620]AssetCheck: New page: Asset Save: BP_Coin
+[2023.12.20-20.42.15:412][620]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin
+[2023.12.20-20.42.17:847][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.42.17:913][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.20-20.42.17:953][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.20-20.42.17:984][869]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.20-20.42.17:985][869]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/MapF7E39FFB461DB35D0684AB87B1D69EEC.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.20-20.42.17:991][869]LogFileHelpers: Saving map 'Map' took 0.078
+[2023.12.20-20.42.17:998][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 3.84 sec)
+[2023.12.20-20.42.18:000][869]AssetCheck: New page: Asset Save: Map
+[2023.12.20-20.42.18:000][869]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.20-20.42.20:734][120]Cmd: DELETE
+[2023.12.20-20.42.20:734][120]Cmd: ACTOR DELETE
+[2023.12.20-20.42.20:737][120]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.42.20:738][120]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.42.20:739][120]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.42.20:739][120]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.42.20:740][120]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.42.20:741][120]LogEditorActor: Deleted Actor: BP_PickUp_C
+[2023.12.20-20.42.20:754][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.12.20-20.42.20:756][120]LogEditorActor: Deleted 6 Actors (0.022 secs)
+[2023.12.20-20.42.21:874][206]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.21:874][206]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.21:875][206]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_0
+[2023.12.20-20.42.21:877][206]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_0
+[2023.12.20-20.42.22:184][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.22:184][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.22:186][233]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_1
+[2023.12.20-20.42.22:188][233]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_1
+[2023.12.20-20.42.25:252][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.25:252][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.25:253][484]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_0
+[2023.12.20-20.42.25:255][484]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_0
+[2023.12.20-20.42.25:947][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.25:947][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.25:949][540]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_1
+[2023.12.20-20.42.25:951][540]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_1
+[2023.12.20-20.42.29:269][842]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.29:269][842]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.29:269][842]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_2
+[2023.12.20-20.42.29:271][842]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_2
+[2023.12.20-20.42.29:379][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.29:379][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.29:381][848]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_3
+[2023.12.20-20.42.29:382][848]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_3
+[2023.12.20-20.42.30:206][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.30:206][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.30:206][897]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_2
+[2023.12.20-20.42.30:208][897]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_2
+[2023.12.20-20.42.30:316][903]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.30:316][903]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.30:319][903]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_3
+[2023.12.20-20.42.30:320][903]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_3
+[2023.12.20-20.42.31:037][957]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.31:037][957]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.31:038][957]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_4
+[2023.12.20-20.42.31:040][957]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_4
+[2023.12.20-20.42.31:384][980]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.31:384][980]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.31:387][980]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_5
+[2023.12.20-20.42.31:388][980]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/Map.Map:PersistentLevel.BP_Coin_C_5
+[2023.12.20-20.42.32:063][ 23]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.32:063][ 23]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.32:065][ 23]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_4
+[2023.12.20-20.42.32:066][ 23]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_4
+[2023.12.20-20.42.32:344][ 40]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.32:344][ 40]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.32:346][ 40]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_5
+[2023.12.20-20.42.32:348][ 40]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key as actor: BP_Key_C /Game/Map.Map:PersistentLevel.BP_Key_C_5
+[2023.12.20-20.42.33:657][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.42.33:714][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.20-20.42.33:756][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.20-20.42.33:765][170]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.20-20.42.33:766][170]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Map80BA47D74C6B652B0DC4ABB52AC8C569.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.20-20.42.33:772][170]LogFileHelpers: Saving map 'Map' took 0.059
+[2023.12.20-20.42.33:779][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 3.96 sec)
+[2023.12.20-20.42.33:780][170]AssetCheck: New page: Asset Save: Map
+[2023.12.20-20.42.33:780][170]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.20-20.42.34:579][251]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.20-20.42.34:588][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.20-20.42.34:588][251]PIE: New page: PIE session: Map (20 de dez de 2023 14:42:34)
+[2023.12.20-20.42.34:610][251]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.20-20.42.34:613][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002787s)
+[2023.12.20-20.42.34:613][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.002857s)
+[2023.12.20-20.42.34:626][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.20-20.42.34:627][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.42.34:627][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-20.42.34:627][251]LogAIModule: Creating AISystem for world Map
+[2023.12.20-20.42.34:628][251]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2023.12.20-20.42.34:628][251]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.12.20-20.42.34:628][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.20-20.42.34:628][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.20-20.42.34:628][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.20-20.42.34:628][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.20-20.42.34:628][251]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.20-20.42.34:628][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.20-20.42.34:628][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.20-20.42.34:628][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.20-20.42.34:629][251]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.20-20.42.34:629][251]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.20-20.42.34:629][251]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.20-20.42.34:631][251]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.20-20.42.34:662][251]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.20-20.42.34:663][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.20-20.42.34:663][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.20-20.42.34:663][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.20-20.42.34:663][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.12.20-20.42.34:663][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.12.20-20.42.34:665][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.12.20-20.42.34:665][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.12.20-20.42.34:665][251]LogInit: FAudioDevice initialized with ID 17.
+[2023.12.20-20.42.34:665][251]LogAudio: Display: Audio Device (ID: 17) registered with world 'Map'.
+[2023.12.20-20.42.34:665][251]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.20-20.42.34:672][251]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.20-20.42.34:673][251]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.20-17.42.34
+[2023.12.20-20.42.34:673][251]LogWorld: Bringing up level for play took: 0.001204
+[2023.12.20-20.42.34:676][251]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.12.20-20.42.34:680][251]PIE: Server logged in
+[2023.12.20-20.42.34:681][251]PIE: Play in editor total start time 0,094 seconds.
+[2023.12.20-20.42.45:010][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-20.42.45:010][282]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.20-20.42.45:011][282]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-20.42.45:011][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-20.42.45:017][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.20-20.42.45:021][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-20.42.45:036][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-20.42.45:037][282]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.20-20.42.45:037][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.20-20.42.45:040][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.20-20.42.45:048][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.12.20-20.42.45:114][283]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.BP_Coin:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.SKEL_BP_Coin_C' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.BP_Coin_C' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.BP_Coin:EventGraph.K2Node_Event_0' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.BP_Coin:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.BP_Coin:EventGraph.K2Node_Event_1' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.BP_Coin:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.BP_Coin:EventGraph.K2Node_Event_2' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.BP_Coin:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.SKEL_BP_Coin_C:ReceiveBeginPlay' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.SKEL_BP_Coin_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.SKEL_BP_Coin_C:ReceiveTick' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:559][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Coin.SKEL_BP_Coin_C:UserConstructionScript' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Coin.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.BP_Key:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.SKEL_BP_Key_C' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.BP_Key_C' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.BP_Key:EventGraph.K2Node_Event_0' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.BP_Key:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.BP_Key:EventGraph.K2Node_Event_1' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.BP_Key:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.BP_Key:EventGraph.K2Node_Event_2' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.BP_Key:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.SKEL_BP_Key_C:UserConstructionScript' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.SKEL_BP_Key_C:ReceiveTick' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.SKEL_BP_Key_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:576][ 23]LogMetaData: Removing '/Game/3DPlatformer/PickUs/BP_Key.SKEL_BP_Key_C:ReceiveBeginPlay' ref from Metadata '/Game/3DPlatformer/Core/PickUp/BP_Key.PackageMetaData'
+[2023.12.20-20.42.53:590][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.42.53:631][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUs/BP_Coin" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUs/BP_Coin.uasset" SILENT=true
+[2023.12.20-20.42.53:635][ 23]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUs/BP_Coin
+[2023.12.20-20.42.53:635][ 23]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Coin28FEE67640C7DBC0834327907108CF4D.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUs/BP_Coin.uasset'
+[2023.12.20-20.42.53:667][ 23]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Coin
+[2023.12.20-20.42.53:668][ 23]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Coin7E8A1F1F4E393AFDD8E37CBDB2B8D0C3.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Coin.uasset'
+[2023.12.20-20.42.53:671][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUs/BP_Key" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUs/BP_Key.uasset" SILENT=true
+[2023.12.20-20.42.53:676][ 23]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUs/BP_Key
+[2023.12.20-20.42.53:676][ 23]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Key7962B8C04A3E9C5E7B7722889BF8A2EB.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUs/BP_Key.uasset'
+[2023.12.20-20.42.53:683][ 23]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Key
+[2023.12.20-20.42.53:684][ 23]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Key28888EF748EF24F6E0F45692173F2B21.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Key.uasset'
+[2023.12.20-20.42.53:694][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 4.07 sec)
+[2023.12.20-20.42.53:704][ 23]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.20-20.42.53:704][ 23]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUs/BP_Coin.BP_Coin
+[2023.12.20-20.42.53:704][ 23]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin
+[2023.12.20-20.42.53:704][ 23]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.42.53:704][ 23]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Coin.Default__BP_Coin_C
+[2023.12.20-20.42.53:704][ 23]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUs/BP_Key.BP_Key
+[2023.12.20-20.42.53:704][ 23]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key
+[2023.12.20-20.42.53:704][ 23]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.42.53:704][ 23]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Key.Default__BP_Key_C
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.BP_Key_C' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.SKEL_BP_Key_C' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.SKEL_BP_Key_C:ReceiveBeginPlay' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.SKEL_BP_Key_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.SKEL_BP_Key_C:ReceiveTick' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.SKEL_BP_Key_C:UserConstructionScript' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.BP_Key:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.BP_Key:EventGraph.K2Node_Event_0' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.BP_Key:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.BP_Key:EventGraph.K2Node_Event_1' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.BP_Key:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.BP_Key:EventGraph.K2Node_Event_2' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:221][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Key.BP_Key:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Key.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.BP_Coin_C' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.SKEL_BP_Coin_C' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.SKEL_BP_Coin_C:ReceiveBeginPlay' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.SKEL_BP_Coin_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.SKEL_BP_Coin_C:ReceiveTick' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.SKEL_BP_Coin_C:UserConstructionScript' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.BP_Coin:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.BP_Coin:EventGraph.K2Node_Event_0' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.BP_Coin:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.BP_Coin:EventGraph.K2Node_Event_1' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.BP_Coin:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.BP_Coin:EventGraph.K2Node_Event_2' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:233][167]LogMetaData: Removing '/Game/3DPlatformer/PickUps/BP_Coin.BP_Coin:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/3DPlatformer/PickUs/BP_Coin.PackageMetaData'
+[2023.12.20-20.43.06:245][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.43.06:282][167]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Key
+[2023.12.20-20.43.06:283][167]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Key9DE9929A4DCF725B24ED64802ADE5BBB.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Key.uasset'
+[2023.12.20-20.43.06:285][167]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_Coin
+[2023.12.20-20.43.06:286][167]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Coin8B7F3C404F18BCE8982A8682C77C1338.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_Coin.uasset'
+[2023.12.20-20.43.06:288][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUps/BP_Key" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Key.uasset" SILENT=true
+[2023.12.20-20.43.06:293][167]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUps/BP_Key
+[2023.12.20-20.43.06:293][167]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Key4AF212414725C286784F2E8828264144.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Key.uasset'
+[2023.12.20-20.43.06:299][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUps/BP_Coin" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Coin.uasset" SILENT=true
+[2023.12.20-20.43.06:303][167]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUps/BP_Coin
+[2023.12.20-20.43.06:303][167]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Coin9D589529461E56B7065A51839647B419.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Coin.uasset'
+[2023.12.20-20.43.06:315][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.14 sec)
+[2023.12.20-20.43.06:347][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.20-20.43.06:364][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.20-20.43.06:381][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.12.20-20.43.06:408][167]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.20-20.43.06:408][167]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key
+[2023.12.20-20.43.06:408][167]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Key.BP_Key_C
+[2023.12.20-20.43.06:408][167]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Key.Default__BP_Key_C
+[2023.12.20-20.43.06:408][167]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin
+[2023.12.20-20.43.06:408][167]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Coin.BP_Coin_C
+[2023.12.20-20.43.06:408][167]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/3DPlatformer/Core/PickUp/BP_Coin.Default__BP_Coin_C
+[2023.12.20-20.43.06:408][167]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUps/BP_Key.BP_Key
+[2023.12.20-20.43.06:408][167]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUps/BP_Coin.BP_Coin
+[2023.12.20-20.44.41:035][944]BlueprintLog: New page: Compile BP_PickUp
+[2023.12.20-20.44.41:084][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.20-20.44.41:575][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.44.41:713][990]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_PickUp
+[2023.12.20-20.44.41:714][990]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUp5A62D1694429C23676A12CB33ADD9704.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_PickUp.uasset'
+[2023.12.20-20.44.41:721][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 4.28 sec)
+[2023.12.20-20.44.41:723][990]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-20.44.41:723][990]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-20.44.44:763][195]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-20.44.44:763][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-20.49.24:693][907]BlueprintLog: New page: Compile BP_PickUp
+[2023.12.20-20.49.24:742][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.20-20.49.26:402][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.49.26:520][ 75]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/PickUp/BP_PickUp
+[2023.12.20-20.49.26:521][ 75]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_PickUp6D368F95404ACD0A4E2E549BE95B6654.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/PickUp/BP_PickUp.uasset'
+[2023.12.20-20.49.26:528][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 4.41 sec)
+[2023.12.20-20.49.26:529][ 75]AssetCheck: New page: Asset Save: BP_PickUp
+[2023.12.20-20.49.26:529][ 75]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/PickUp/BP_PickUp.BP_PickUp
+[2023.12.20-20.49.34:927][989]BlueprintLog: New page: Compile BP_Key
+[2023.12.20-20.49.34:968][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.20-20.49.35:521][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.49.35:587][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUps/BP_Key" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Key.uasset" SILENT=true
+[2023.12.20-20.49.35:591][ 34]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUps/BP_Key
+[2023.12.20-20.49.35:592][ 34]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Key19CC466B4AF8A2450FAE6A8FD463F120.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Key.uasset'
+[2023.12.20-20.49.35:599][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 4.49 sec)
+[2023.12.20-20.49.35:600][ 34]AssetCheck: New page: Asset Save: BP_Key
+[2023.12.20-20.49.35:600][ 34]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUps/BP_Key.BP_Key
+[2023.12.20-20.49.46:827][288]BlueprintLog: New page: Compile BP_Coin
+[2023.12.20-20.49.46:865][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.20-20.49.47:597][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.49.47:669][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUps/BP_Coin" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Coin.uasset" SILENT=true
+[2023.12.20-20.49.47:674][365]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUps/BP_Coin
+[2023.12.20-20.49.47:675][365]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_CoinB8A24C47472BA0AFF3871699AB0E1F85.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Coin.uasset'
+[2023.12.20-20.49.47:682][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.57 sec)
+[2023.12.20-20.49.47:683][365]AssetCheck: New page: Asset Save: BP_Coin
+[2023.12.20-20.49.47:683][365]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUps/BP_Coin.BP_Coin
+[2023.12.20-20.50.41:258][508]BlueprintLog: New page: Compile BP_Coin
+[2023.12.20-20.50.41:296][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.12.20-20.50.42:437][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.50.42:529][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUps/BP_Coin" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Coin.uasset" SILENT=true
+[2023.12.20-20.50.42:535][636]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUps/BP_Coin
+[2023.12.20-20.50.42:536][636]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_CoinE91218534C4584AB1267DC8BC8CEBD0C.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Coin.uasset'
+[2023.12.20-20.50.42:544][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 4.68 sec)
+[2023.12.20-20.50.42:545][636]AssetCheck: New page: Asset Save: BP_Coin
+[2023.12.20-20.50.42:545][636]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUps/BP_Coin.BP_Coin
+[2023.12.20-20.51.35:740][701]BlueprintLog: New page: Compile BP_Key
+[2023.12.20-20.51.35:779][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.20-20.51.36:599][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.20-20.51.36:713][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DPlatformer/PickUps/BP_Key" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Key.uasset" SILENT=true
+[2023.12.20-20.51.36:718][783]LogSavePackage: Moving output files for package: /Game/3DPlatformer/PickUps/BP_Key
+[2023.12.20-20.51.36:719][783]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Key86E123D04AB858929FC81581250378D5.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUps/BP_Key.uasset'
+[2023.12.20-20.51.36:728][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.81 sec)
+[2023.12.20-20.51.36:729][783]AssetCheck: New page: Asset Save: BP_Key
+[2023.12.20-20.51.36:729][783]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/PickUps/BP_Key.BP_Key
+[2023.12.20-20.51.39:462][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.20-20.51.39:470][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.20-20.51.39:470][ 60]PIE: New page: PIE session: Map (20 de dez de 2023 14:51:39)
+[2023.12.20-20.51.39:501][ 60]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.20-20.51.39:503][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002659s)
+[2023.12.20-20.51.39:503][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.002705s)
+[2023.12.20-20.51.39:519][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.20-20.51.39:522][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.20-20.51.39:522][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.20-20.51.39:522][ 60]LogAIModule: Creating AISystem for world Map
+[2023.12.20-20.51.39:523][ 60]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2023.12.20-20.51.39:523][ 60]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.12.20-20.51.39:523][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.20-20.51.39:523][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.20-20.51.39:523][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.20-20.51.39:523][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.20-20.51.39:523][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.20-20.51.39:523][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.20-20.51.39:523][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.20-20.51.39:523][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.20-20.51.39:523][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.20-20.51.39:523][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.20-20.51.39:524][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.20-20.51.39:526][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.20-20.51.39:554][ 60]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.20-20.51.39:554][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.20-20.51.39:554][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.20-20.51.39:554][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.20-20.51.39:555][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.12.20-20.51.39:555][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.12.20-20.51.39:557][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.12.20-20.51.39:557][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.12.20-20.51.39:557][ 60]LogInit: FAudioDevice initialized with ID 18.
+[2023.12.20-20.51.39:557][ 60]LogAudio: Display: Audio Device (ID: 18) registered with world 'Map'.
+[2023.12.20-20.51.39:557][ 60]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.20-20.51.39:560][ 60]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.20-20.51.39:561][ 60]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.20-17.51.39
+[2023.12.20-20.51.39:561][ 60]LogWorld: Bringing up level for play took: 0.001079
+[2023.12.20-20.51.39:564][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2023.12.20-20.51.39:566][ 60]PIE: Server logged in
+[2023.12.20-20.51.39:567][ 60]PIE: Play in editor total start time 0,097 seconds.
+[2023.12.20-20.51.41:461][247]LogBlueprintUserMessages: [BP_Key_C_3] You get a KEY!
+[2023.12.20-20.51.43:275][434]LogBlueprintUserMessages: [BP_Coin_C_5] 1 Coin Collected
+[2023.12.20-20.51.46:409][757]LogBlueprintUserMessages: [BP_Coin_C_3] 1 Coin Collected
+[2023.12.20-20.51.48:315][953]LogBlueprintUserMessages: [BP_Key_C_5] You get a KEY!
+[2023.12.20-20.51.49:583][ 83]LogBlueprintUserMessages: [BP_Coin_C_1] 1 Coin Collected
+[2023.12.20-20.51.51:125][239]LogBlueprintUserMessages: [BP_Key_C_1] You get a KEY!
+[2023.12.20-20.51.51:950][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-20.51.51:950][321]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.20-20.51.51:950][321]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.20-20.51.51:950][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-20.51.51:960][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.20-20.51.51:964][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.20-20.51.51:976][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.20-20.51.51:976][321]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.20-20.51.51:976][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.20-20.51.51:978][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.20-20.51.51:987][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.12.20-20.51.52:046][322]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.12.20-20.52.55:757][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.20-20.52.55:759][794]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map' took 0.017
