@@ -1145,3 +1145,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.20-17.45.58:627][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.089641 secs
 [2023.12.20-17.45.58:644][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.12.20-17.45.58:743][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2023.12.20-17.48.15:396][820]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.20-17.48.26:289][220]AssetReimport: New page: Outstanding source content changes 11:48:26
+[2023.12.20-17.48.26:323][220]LogEditorFactories: Performing atomic reimport of [E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/TeachersMarketplace/Assets/Props/PuzzlePieces/PuzzleSphere_A/Mesh/SM_PuzzleSphere_A.fbx]
+[2023.12.20-17.48.26:330][220]LogFbx: Loading FBX Scene from E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/TeachersMarketplace/Assets/Props/PuzzlePieces/PuzzleSphere_A/Mesh/SM_PuzzleSphere_A.fbx
+[2023.12.20-17.48.26:338][220]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.20-17.48.26:567][220]LogEditorFactories: -- imported successfully
+[2023.12.20-17.48.26:618][220]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.20-17.48.29:673][482]AssetReimport: Reimported asset SM_PuzzleSphere_A from E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/TeachersMarketplace/Assets/Props/PuzzlePieces/PuzzleSphere_A/Mesh/SM_PuzzleSphere_A.fbx.
+[2023.12.20-17.48.33:530][878]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.261 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23571 files in 25422 folders with total size 1605 MiB.
