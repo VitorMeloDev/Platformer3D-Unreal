@@ -5895,3 +5895,34 @@ UnknownFunction []
 [2023.12.27-20.44.21:806][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 10.8 sec)
 [2023.12.27-20.44.21:807][151]AssetCheck: New page: Asset Save: GM_Platformer3D
 [2023.12.27-20.44.21:807][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
+[2023.12.27-20.45.42:723][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.45.42:793][620]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Framework/GM_Platformer3D
+[2023.12.27-20.45.42:794][620]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/GM_Platformer3D30E31D034915BED5831A9D828532E624.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/GM_Platformer3D.uasset'
+[2023.12.27-20.45.42:805][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 10.9 sec)
+[2023.12.27-20.45.42:806][620]AssetCheck: New page: Asset Save: GM_Platformer3D
+[2023.12.27-20.45.42:806][620]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
+[2023.12.27-20.47.39:002][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.47.39:121][561]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.47.39:122][561]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Checkpoint37213D404E58BC9BAA3C60837E9128D2.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.47.39:132][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 11.0 sec)
+[2023.12.27-20.47.39:133][561]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.47.39:133][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.47.56:752][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.47.56:809][606]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Framework/GM_Platformer3D
+[2023.12.27-20.47.56:810][606]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/GM_Platformer3D5D2992D24243900E8ECCB28D2094ABE3.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/GM_Platformer3D.uasset'
+[2023.12.27-20.47.56:821][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 11.1 sec)
+[2023.12.27-20.47.56:822][606]AssetCheck: New page: Asset Save: GM_Platformer3D
+[2023.12.27-20.47.56:822][606]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
+[2023.12.27-20.52.45:068][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.12.27-20.52.45:072][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map' took 0.023
+[2023.12.27-20.52.45:073][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume] ([2] browsable assets)...
+[2023.12.27-20.52.45:073][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume]
+[2023.12.27-20.52.45:079][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume_Auto4
+[2023.12.27-20.52.45:079][943]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_HeightRespawVolume_Auto4098402074DF9743232AD558054AB185A.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Autosaves/Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume_Auto4.uasset'
+[2023.12.27-20.52.45:080][943]LogFileHelpers: Auto-saving content packages took 0.008
+[2023.12.27-20.53.43:012][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.53.43:054][117]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.53.43:055][117]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Checkpoint21201B0C4B228860C64FEABE4175D363.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.53.43:065][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 11.2 sec)
+[2023.12.27-20.53.43:067][117]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.53.43:067][117]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
