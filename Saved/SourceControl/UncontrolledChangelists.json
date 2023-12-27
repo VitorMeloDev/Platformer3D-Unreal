@@ -24,6 +24,9 @@
 				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Gate/BP_Gate.uasset",
 				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Player/E_ChracterStates.uasset",
 				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Player/E_CharacterStates.uasset",
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_RespawCollision.uasset",
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.uasset",
+				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset",
 				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUs/BP_Coin.uasset",
 				"E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/PickUs/BP_Key.uasset"
 			]

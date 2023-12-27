@@ -4472,3 +4472,1426 @@ UnknownFunction []
 [2023.12.27-19.15.22:155][718]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
 	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_94
 	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.30:820][205]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_95
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.30:881][206]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_96
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:287][485]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_97
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:302][486]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_98
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:316][487]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_99
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:330][488]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_100
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:347][489]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_101
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:362][490]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_102
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:402][491]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_103
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:417][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_104
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:431][493]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_105
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:447][494]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_106
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:464][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_107
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:480][496]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_108
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:498][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_109
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:514][498]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_110
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:529][499]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_111
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:545][500]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_112
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:562][501]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_113
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:579][502]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_114
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.16.34:595][503]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_115
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-19.19.38:436][411]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-19.19.38:436][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-19.19.38:865][442]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.27-19.19.38:865][442]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-19.19.38:865][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-19.19.39:550][510]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-19.19.39:551][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-19.19.39:577][510]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-19.19.39:577][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-19.19.39:723][510]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-19.19.39:723][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-19.19.40:566][603]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-19.19.40:566][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-19.19.40:585][603]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-19.19.40:585][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-19.19.40:687][603]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-19.19.40:687][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-19.19.42:085][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-19.19.42:219][759]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Player/BP_MainCharacter
+[2023.12.27-19.19.42:220][759]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_MainCharacter223CBEA04A44F9FF6C20849697A3E336.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Player/BP_MainCharacter.uasset'
+[2023.12.27-19.19.42:229][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 8.37 sec)
+[2023.12.27-19.19.42:230][759]AssetCheck: New page: Asset Save: BP_MainCharacter
+[2023.12.27-19.19.42:230][759]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Player/BP_MainCharacter.BP_MainCharacter
+[2023.12.27-20.05.42:443][657]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_116
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:644][583]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_117
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:711][584]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_118
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:723][585]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_119
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:735][586]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_120
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:753][587]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_121
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:770][588]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_122
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:788][589]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_123
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:805][590]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_124
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:824][591]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_125
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:838][592]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_126
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:852][593]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_127
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:866][594]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_128
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:880][595]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_129
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:894][596]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_130
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:907][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_131
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:921][598]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_132
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:934][599]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_133
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:949][600]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_134
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:962][601]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_135
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:976][602]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_136
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.25:991][603]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_137
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.26:005][604]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_138
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.26:018][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_139
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.26:032][606]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_140
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.26:046][607]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_141
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.26:059][608]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_142
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.26:073][609]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_143
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.26:087][610]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_144
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.27:485][751]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_145
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.27:526][752]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_146
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.29:549][939]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_147
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.29:590][940]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_148
+	Function /Game/3DPlatformer/Characters/Animation/MainCharacter/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0206
+[2023.12.27-20.10.32:415][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
+[2023.12.27-20.10.32:416][221]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.10.32:416][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.11.46:344][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.12.27-20.11.46:349][700]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map' took 0.032
+[2023.12.27-20.11.46:349][700]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3DPlatformer/Core/Framework/GM_Platformer3D] ([2] browsable assets)...
+[2023.12.27-20.11.46:349][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DPlatformer/Core/Framework/GM_Platformer3D]
+[2023.12.27-20.11.46:354][700]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3DPlatformer/Core/Framework/GM_Platformer3D_Auto2
+[2023.12.27-20.11.46:354][700]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/GM_Platformer3D_Auto2E9131E684BA6AE9FA437D98A0BE59EC5.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Autosaves/Game/3DPlatformer/Core/Framework/GM_Platformer3D_Auto2.uasset'
+[2023.12.27-20.11.46:355][700]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.12.27-20.12.54:542][820]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:47.153 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 24542 files in 26387 folders with total size 1632 MiB.
+[2023.12.27-20.14.14:060][161]BlueprintLog: New page: Compile GM_Platformer3D
+[2023.12.27-20.14.14:090][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.27-20.14.25:070][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.14.25:115][391]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Framework/GM_Platformer3D
+[2023.12.27-20.14.25:116][391]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/GM_Platformer3DC95438E84034891A5784C395FC588E0B.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/GM_Platformer3D.uasset'
+[2023.12.27-20.14.25:125][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 8.43 sec)
+[2023.12.27-20.14.25:127][391]AssetCheck: New page: Asset Save: GM_Platformer3D
+[2023.12.27-20.14.25:127][391]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
+[2023.12.27-20.14.30:723][956]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.27-20.14.30:733][956]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.27-20.14.30:743][957]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.27-20.14.34:660][356]LogContentBrowser: Attempting asset rename: NewFolder -> RespawSystem
+[2023.12.27-20.14.34:696][356]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.27-20.14.39:361][683]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.27-20.14.39:372][683]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.27-20.14.39:378][683]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.27-20.14.39:401][685]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.27-20.14.51:748][936]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_RespawCollision
+[2023.12.27-20.14.51:756][936]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.27-20.14.53:408][102]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision
+[2023.12.27-20.14.53:409][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.14.53:409][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.14.53:596][102]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.12.27-20.15.53:828][723]BlueprintLog: New page: Compile BP_RespawCollision
+[2023.12.27-20.15.53:859][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.12.27-20.15.54:427][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.15.54:497][784]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision
+[2023.12.27-20.15.54:497][784]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_RespawCollisionA8CE715040579160AA1EB59AEC5BEEFA.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_RespawCollision.uasset'
+[2023.12.27-20.15.54:509][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 8.51 sec)
+[2023.12.27-20.15.54:509][784]AssetCheck: New page: Asset Save: BP_RespawCollision
+[2023.12.27-20.15.54:509][784]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision
+[2023.12.27-20.15.57:020][ 20]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision_C
+[2023.12.27-20.15.57:020][ 20]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision_C
+[2023.12.27-20.15.57:021][ 20]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision as actor: BP_RespawCollision_C /Game/Map.Map:PersistentLevel.BP_RespawCollision_C_0
+[2023.12.27-20.15.57:022][ 20]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision as actor: BP_RespawCollision_C /Game/Map.Map:PersistentLevel.BP_RespawCollision_C_0
+[2023.12.27-20.15.57:640][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision_C
+[2023.12.27-20.15.57:640][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision_C
+[2023.12.27-20.15.57:642][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision as actor: BP_RespawCollision_C /Game/Map.Map:PersistentLevel.BP_RespawCollision_C_1
+[2023.12.27-20.15.57:643][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision as actor: BP_RespawCollision_C /Game/Map.Map:PersistentLevel.BP_RespawCollision_C_1
+[2023.12.27-20.16.04:270][760]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.12.27-20.16.27:377][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.16.27:441][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.27-20.16.27:489][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.27-20.16.27:502][204]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.27-20.16.27:503][204]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/MapC7709DD34CEE5141FAFA9091A3762E03.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.27-20.16.27:510][204]LogFileHelpers: Saving map 'Map' took 0.070
+[2023.12.27-20.16.27:530][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 8.66 sec)
+[2023.12.27-20.16.27:531][204]AssetCheck: New page: Asset Save: Map
+[2023.12.27-20.16.27:531][204]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.27-20.16.31:351][605]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.16.31:374][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.16.31:374][605]PIE: New page: PIE session: Map (27 de dez de 2023 14:16:31)
+[2023.12.27-20.16.31:374][605]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.16.31:378][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003223s)
+[2023.12.27-20.16.31:378][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003259s)
+[2023.12.27-20.16.31:393][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.27-20.16.31:395][605]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.16.31:396][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.16.31:396][605]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.16.31:396][605]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2023.12.27-20.16.31:396][605]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.12.27-20.16.31:396][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.16.31:397][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.16.31:397][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.16.31:397][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.16.31:397][605]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.16.31:397][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.16.31:397][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.16.31:397][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.16.31:397][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.16.31:397][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.16.31:397][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.16.31:400][605]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.16.31:430][605]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.16.31:430][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.16.31:430][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.16.31:430][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.16.31:431][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.12.27-20.16.31:431][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.12.27-20.16.31:433][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.12.27-20.16.31:433][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.12.27-20.16.31:433][605]LogInit: FAudioDevice initialized with ID 34.
+[2023.12.27-20.16.31:433][605]LogAudio: Display: Audio Device (ID: 34) registered with world 'Map'.
+[2023.12.27-20.16.31:433][605]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2023.12.27-20.16.31:439][605]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.16.31:440][605]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.16.31
+[2023.12.27-20.16.31:440][605]LogWorld: Bringing up level for play took: 0.001394
+[2023.12.27-20.16.31:443][605]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.12.27-20.16.31:447][605]PIE: Server logged in
+[2023.12.27-20.16.31:448][605]PIE: Play in editor total start time 0,089 seconds.
+[2023.12.27-20.16.41:848][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.16.41:848][670]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.16.41:848][670]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.16.41:849][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.16.41:855][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.16.41:859][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.16.41:874][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.16.41:875][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2023.12.27-20.16.41:875][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.12.27-20.16.41:878][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.12.27-20.16.41:888][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.27-20.16.41:970][671]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.12.27-20.17.01:161][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.17.01:213][861]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision
+[2023.12.27-20.17.01:214][861]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_RespawCollision56DF1CC14A9DAF57612C46B1F0784F17.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_RespawCollision.uasset'
+[2023.12.27-20.17.01:225][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 8.73 sec)
+[2023.12.27-20.17.01:226][861]AssetCheck: New page: Asset Save: BP_RespawCollision
+[2023.12.27-20.17.01:226][861]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision
+[2023.12.27-20.17.02:243][976]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.17.02:251][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.17.02:251][976]PIE: New page: PIE session: Map (27 de dez de 2023 14:17:02)
+[2023.12.27-20.17.02:251][976]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.17.02:254][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003212s)
+[2023.12.27-20.17.02:254][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003248s)
+[2023.12.27-20.17.02:271][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.12.27-20.17.02:274][976]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.17.02:274][976]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.17.02:274][976]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.17.02:275][976]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2023.12.27-20.17.02:275][976]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.12.27-20.17.02:275][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.17.02:275][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.17.02:275][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.17.02:275][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.17.02:275][976]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.17.02:275][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.17.02:275][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.17.02:275][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.17.02:275][976]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.17.02:275][976]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.17.02:275][976]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.17.02:277][976]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.17.02:306][976]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.17.02:306][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.17.02:306][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.17.02:306][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.17.02:307][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.12.27-20.17.02:307][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.12.27-20.17.02:309][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.12.27-20.17.02:309][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.12.27-20.17.02:309][976]LogInit: FAudioDevice initialized with ID 35.
+[2023.12.27-20.17.02:309][976]LogAudio: Display: Audio Device (ID: 35) registered with world 'Map'.
+[2023.12.27-20.17.02:309][976]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2023.12.27-20.17.02:356][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.17.02:357][976]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.17.02:358][976]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.17.02
+[2023.12.27-20.17.02:358][976]LogWorld: Bringing up level for play took: 0.001484
+[2023.12.27-20.17.02:361][976]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.12.27-20.17.02:366][976]PIE: Server logged in
+[2023.12.27-20.17.02:367][976]PIE: Play in editor total start time 0,117 seconds.
+[2023.12.27-20.17.02:381][976]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.27-20.17.06:448][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.17.06:448][260]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.17.06:449][260]LogSlate: Window 'Platformer3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.27-20.17.06:454][260]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.17.06:455][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.17.06:472][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.17.06:477][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.17.06:493][260]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2023.12.27-20.17.06:493][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.12.27-20.17.06:495][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.12.27-20.17.06:502][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.27-20.17.06:626][261]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.12.27-20.17.07:925][414]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.17.07:932][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.17.07:932][414]PIE: New page: PIE session: Map (27 de dez de 2023 14:17:07)
+[2023.12.27-20.17.07:932][414]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.17.07:935][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003095s)
+[2023.12.27-20.17.07:935][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003131s)
+[2023.12.27-20.17.07:951][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.27-20.17.07:954][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.17.07:954][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.17.07:954][414]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.17.07:955][414]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2023.12.27-20.17.07:955][414]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.12.27-20.17.07:955][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.17.07:955][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.17.07:955][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.17.07:955][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.17.07:955][414]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.17.07:955][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.17.07:955][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.17.07:955][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.17.07:955][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.17.07:955][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.17.07:955][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.17.07:957][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.17.07:985][414]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.17.07:986][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.17.07:986][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.17.07:986][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.17.07:986][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.12.27-20.17.07:986][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.12.27-20.17.07:988][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.12.27-20.17.07:988][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.12.27-20.17.07:988][414]LogInit: FAudioDevice initialized with ID 36.
+[2023.12.27-20.17.07:988][414]LogAudio: Display: Audio Device (ID: 36) registered with world 'Map'.
+[2023.12.27-20.17.07:988][414]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2023.12.27-20.17.08:039][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.17.08:040][414]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.17.08:041][414]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.17.08
+[2023.12.27-20.17.08:042][414]LogWorld: Bringing up level for play took: 0.001690
+[2023.12.27-20.17.08:044][414]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.12.27-20.17.08:049][414]PIE: Server logged in
+[2023.12.27-20.17.08:051][414]PIE: Play in editor total start time 0,12 seconds.
+[2023.12.27-20.17.08:067][414]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.27-20.17.18:059][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.17.18:059][214]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.17.18:060][214]LogSlate: Window 'Platformer3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.27-20.17.18:065][214]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.17.18:066][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.17.18:083][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.17.18:088][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.17.18:104][214]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2023.12.27-20.17.18:104][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.12.27-20.17.18:107][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.12.27-20.17.18:114][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.12.27-20.17.18:237][215]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.12.27-20.17.27:187][155]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/Core/Goal/BP_Goal.BP_Goal
+[2023.12.27-20.17.27:187][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.17.27:188][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.18.54:263][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.18.54:323][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.27-20.18.54:370][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.12.27-20.18.54:382][118]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.27-20.18.54:383][118]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Map4BF533B042766A25D0236A9BE53B745C.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.27-20.18.54:390][118]LogFileHelpers: Saving map 'Map' took 0.067
+[2023.12.27-20.18.54:398][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 8.86 sec)
+[2023.12.27-20.18.54:400][118]AssetCheck: New page: Asset Save: Map
+[2023.12.27-20.18.54:400][118]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.27-20.18.54:952][172]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.18.54:959][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.18.54:959][172]PIE: New page: PIE session: Map (27 de dez de 2023 14:18:54)
+[2023.12.27-20.18.54:959][172]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.18.54:963][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003375s)
+[2023.12.27-20.18.54:963][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003416s)
+[2023.12.27-20.18.54:981][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.12.27-20.18.54:983][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.18.54:983][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.18.54:983][172]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.18.54:984][172]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2023.12.27-20.18.54:984][172]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.12.27-20.18.54:984][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.18.54:984][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.18.54:984][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.18.54:984][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.18.54:984][172]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.18.54:984][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.18.54:984][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.18.54:984][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.18.54:984][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.18.54:984][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.18.54:984][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.18.54:987][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.18.55:015][172]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.18.55:015][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.18.55:015][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.18.55:015][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.18.55:017][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.12.27-20.18.55:017][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.12.27-20.18.55:018][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.12.27-20.18.55:018][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.12.27-20.18.55:018][172]LogInit: FAudioDevice initialized with ID 37.
+[2023.12.27-20.18.55:018][172]LogAudio: Display: Audio Device (ID: 37) registered with world 'Map'.
+[2023.12.27-20.18.55:018][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2023.12.27-20.18.55:021][172]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.18.55:023][172]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.18.55
+[2023.12.27-20.18.55:023][172]LogWorld: Bringing up level for play took: 0.001327
+[2023.12.27-20.18.55:025][172]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.12.27-20.18.55:028][172]PIE: Server logged in
+[2023.12.27-20.18.55:029][172]PIE: Play in editor total start time 0,07 seconds.
+[2023.12.27-20.19.01:448][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.19.01:448][821]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.19.01:448][821]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.19.01:449][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.19.01:476][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.19.01:481][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.19.01:496][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.19.01:497][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2023.12.27-20.19.01:497][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.12.27-20.19.01:499][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.12.27-20.19.01:507][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.27-20.19.01:589][822]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.12.27-20.19.46:875][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.27-20.19.49:234][928]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.27-20.19.49:343][928]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.19.49:343][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.19.49:414][928]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/3DPlatformer/Core/RespawSystem/BP_RespawCollision.BP_RespawCollision
+	Asset Type: Blueprint
+[2023.12.27-20.19.49:834][928]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.12.27-20.19.49:877][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.27-20.19.49:895][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.27-20.19.49:927][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.27-20.19.49:945][928]LogAutomationController: Ignoring very large delta of 3.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.27-20.19.53:032][103]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.27-20.19.53:052][103]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.27-20.19.53:058][103]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.27-20.19.53:077][105]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.27-20.20.05:250][307]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HeightRespawVolume
+[2023.12.27-20.20.05:257][307]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.27-20.20.06:844][463]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume
+[2023.12.27-20.20.06:844][463]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.20.06:844][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.20.07:009][463]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.12.27-20.20.15:009][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.20.15:073][338]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume
+[2023.12.27-20.20.15:074][338]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_HeightRespawVolumeC53A4C574B3474AB7D13238D002F2DA3.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.uasset'
+[2023.12.27-20.20.15:086][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 8.94 sec)
+[2023.12.27-20.20.15:087][338]AssetCheck: New page: Asset Save: BP_HeightRespawVolume
+[2023.12.27-20.20.15:087][338]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume
+[2023.12.27-20.21.45:409][533]BlueprintLog: New page: Compile BP_HeightRespawVolume
+[2023.12.27-20.21.45:441][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.12.27-20.21.46:173][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.21.46:242][611]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume
+[2023.12.27-20.21.46:243][611]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_HeightRespawVolume8A8011C64DE464B2990B00BCAEB09159.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.uasset'
+[2023.12.27-20.21.46:253][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 9.02 sec)
+[2023.12.27-20.21.46:254][611]AssetCheck: New page: Asset Save: BP_HeightRespawVolume
+[2023.12.27-20.21.46:254][611]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume
+[2023.12.27-20.21.56:908][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume_C
+[2023.12.27-20.21.56:908][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume_C
+[2023.12.27-20.21.56:909][659]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume as actor: BP_HeightRespawVolume_C /Game/Map.Map:PersistentLevel.BP_HeightRespawVolume_C_0
+[2023.12.27-20.21.56:910][659]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume as actor: BP_HeightRespawVolume_C /Game/Map.Map:PersistentLevel.BP_HeightRespawVolume_C_0
+[2023.12.27-20.21.58:098][778]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume_C
+[2023.12.27-20.21.58:098][778]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume_C
+[2023.12.27-20.21.58:100][778]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume as actor: BP_HeightRespawVolume_C /Game/Map.Map:PersistentLevel.BP_HeightRespawVolume_C_1
+[2023.12.27-20.21.58:101][778]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_HeightRespawVolume.BP_HeightRespawVolume as actor: BP_HeightRespawVolume_C /Game/Map.Map:PersistentLevel.BP_HeightRespawVolume_C_1
+[2023.12.27-20.22.16:173][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.22.16:237][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.27-20.22.16:280][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.12.27-20.22.16:292][649]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.27-20.22.16:293][649]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Map883C89B34D808F8CE27F6BB246B66C77.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.27-20.22.16:299][649]LogFileHelpers: Saving map 'Map' took 0.063
+[2023.12.27-20.22.16:307][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 9.16 sec)
+[2023.12.27-20.22.16:309][649]AssetCheck: New page: Asset Save: Map
+[2023.12.27-20.22.16:309][649]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.27-20.22.18:648][883]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.22.18:671][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.22.18:671][883]PIE: New page: PIE session: Map (27 de dez de 2023 14:22:18)
+[2023.12.27-20.22.18:671][883]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.22.18:674][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003066s)
+[2023.12.27-20.22.18:674][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003101s)
+[2023.12.27-20.22.18:691][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.27-20.22.18:693][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.22.18:693][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.22.18:693][883]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.22.18:694][883]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2023.12.27-20.22.18:694][883]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.12.27-20.22.18:694][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.22.18:694][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.22.18:694][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.22.18:694][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.22.18:694][883]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.22.18:694][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.22.18:694][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.22.18:694][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.22.18:694][883]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.22.18:694][883]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.22.18:694][883]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.22.18:697][883]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.22.18:726][883]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.22.18:726][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.22.18:726][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.22.18:726][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.22.18:727][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.12.27-20.22.18:727][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.12.27-20.22.18:729][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.12.27-20.22.18:729][883]LogInit: FAudioDevice initialized with ID 38.
+[2023.12.27-20.22.18:729][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.12.27-20.22.18:729][883]LogAudio: Display: Audio Device (ID: 38) registered with world 'Map'.
+[2023.12.27-20.22.18:729][883]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2023.12.27-20.22.18:732][883]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.22.18:733][883]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.22.18
+[2023.12.27-20.22.18:733][883]LogWorld: Bringing up level for play took: 0.001406
+[2023.12.27-20.22.18:735][883]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.12.27-20.22.18:738][883]PIE: Server logged in
+[2023.12.27-20.22.18:739][883]PIE: Play in editor total start time 0,084 seconds.
+[2023.12.27-20.22.25:238][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.22.25:238][539]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.22.25:238][539]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.22.25:239][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.22.25:253][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.22.25:258][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.22.25:270][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.22.25:271][539]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2023.12.27-20.22.25:271][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.12.27-20.22.25:273][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.12.27-20.22.25:280][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.27-20.22.25:371][540]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2023.12.27-20.26.04:878][317]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.26.04:878][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.26.05:232][347]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.27-20.26.05:232][347]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.26.05:232][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.26.12:178][896]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.27-20.26.12:189][896]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.27-20.26.12:197][896]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.27-20.26.12:209][897]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.27-20.26.19:489][608]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Checkpoint
+[2023.12.27-20.26.19:496][608]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.27-20.26.21:264][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.26.21:265][779]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.26.21:265][779]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.26.21:414][779]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.12.27-20.26.31:960][858]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TeachersMarketplace/Assets/Props/Buttons/Button_A/Mesh/SM_Button_A_Ring) ...
+[2023.12.27-20.26.31:980][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.26.42:299][936]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TeachersMarketplace/Assets/Props/Buttons/Button_A/Mesh/SM_Button_A_Push) ...
+[2023.12.27-20.26.44:452][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.26.44:516][177]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.26.44:516][177]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_CheckpointCFC7D4944E0B9B96778F31BD30FABD87.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.26.44:528][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 9.23 sec)
+[2023.12.27-20.26.44:528][177]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.26.44:528][177]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.28.11:282][ 28]BlueprintLog: New page: Compile GM_Platformer3D
+[2023.12.27-20.28.11:319][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.27-20.28.11:849][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.28.11:904][ 71]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Framework/GM_Platformer3D
+[2023.12.27-20.28.11:905][ 71]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/GM_Platformer3D2E2473C740057BA4ACE3D88E0B786625.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/GM_Platformer3D.uasset'
+[2023.12.27-20.28.11:916][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 9.30 sec)
+[2023.12.27-20.28.11:917][ 71]AssetCheck: New page: Asset Save: GM_Platformer3D
+[2023.12.27-20.28.11:917][ 71]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
+[2023.12.27-20.29.20:933][979]BlueprintLog: New page: Compile BP_Checkpoint
+[2023.12.27-20.29.20:962][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.27-20.29.21:746][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.29.21:800][ 45]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.29.21:801][ 45]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_CheckpointE648F14344BC21D7E78528A93CF865A9.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.29.21:811][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 9.36 sec)
+[2023.12.27-20.29.21:813][ 45]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.29.21:813][ 45]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.29.43:757][533]BlueprintLog: New page: Compile BP_Checkpoint
+[2023.12.27-20.29.43:787][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.27-20.29.44:866][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.29.44:969][621]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.29.44:970][621]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Checkpoint5B8DF4A74EBB843C0B0D74ADC09069F2.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.29.44:980][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 9.48 sec)
+[2023.12.27-20.29.44:981][621]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.29.44:981][621]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.29.46:698][819]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.29.46:705][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.29.46:705][819]PIE: New page: PIE session: Map (27 de dez de 2023 14:29:46)
+[2023.12.27-20.29.46:705][819]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.29.46:709][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003265s)
+[2023.12.27-20.29.46:709][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003303s)
+[2023.12.27-20.29.46:725][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.27-20.29.46:727][819]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.29.46:727][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.29.46:728][819]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.29.46:728][819]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2023.12.27-20.29.46:728][819]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.12.27-20.29.46:728][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.29.46:728][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.29.46:728][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.29.46:728][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.29.46:728][819]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.29.46:728][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.29.46:728][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.29.46:728][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.29.46:729][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.29.46:729][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.29.46:729][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.29.46:731][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.29.46:760][819]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.29.46:760][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.29.46:760][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.29.46:760][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.29.46:761][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.12.27-20.29.46:761][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.12.27-20.29.46:763][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.12.27-20.29.46:763][819]LogInit: FAudioDevice initialized with ID 39.
+[2023.12.27-20.29.46:763][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.12.27-20.29.46:763][819]LogAudio: Display: Audio Device (ID: 39) registered with world 'Map'.
+[2023.12.27-20.29.46:763][819]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2023.12.27-20.29.46:796][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.29.46:797][819]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.29.46:798][819]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.29.46
+[2023.12.27-20.29.46:798][819]LogWorld: Bringing up level for play took: 0.001624
+[2023.12.27-20.29.46:801][819]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2023.12.27-20.29.46:805][819]PIE: Server logged in
+[2023.12.27-20.29.46:806][819]PIE: Play in editor total start time 0,101 seconds.
+[2023.12.27-20.29.46:815][819]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.27-20.29.49:618][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.29.49:618][ 21]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.29.49:619][ 21]LogSlate: Window 'Platformer3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.27-20.29.49:623][ 21]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.29.49:624][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.29.49:626][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.29.49:631][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.29.49:646][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.27-20.29.49:646][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2023.12.27-20.29.49:646][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.12.27-20.29.49:647][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.12.27-20.29.49:655][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.12.27-20.29.49:694][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2023.12.27-20.29.51:932][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint_C
+[2023.12.27-20.29.51:932][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint_C
+[2023.12.27-20.29.51:935][227]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Map.Map:PersistentLevel.BP_Checkpoint_C_0
+[2023.12.27-20.29.51:937][227]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Map.Map:PersistentLevel.BP_Checkpoint_C_0
+[2023.12.27-20.29.53:099][298]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint_C
+[2023.12.27-20.29.53:099][298]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint_C
+[2023.12.27-20.29.53:102][298]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Map.Map:PersistentLevel.BP_Checkpoint_C_1
+[2023.12.27-20.29.53:105][298]LogActorFactory: Actor Factory spawned Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/Map.Map:PersistentLevel.BP_Checkpoint_C_1
+[2023.12.27-20.29.56:225][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.29.56:247][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.29.56:247][586]PIE: New page: PIE session: Map (27 de dez de 2023 14:29:56)
+[2023.12.27-20.29.56:248][586]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.29.56:251][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003321s)
+[2023.12.27-20.29.56:251][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003358s)
+[2023.12.27-20.29.56:269][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.27-20.29.56:271][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.29.56:271][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.29.56:271][586]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.29.56:272][586]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2023.12.27-20.29.56:272][586]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.12.27-20.29.56:272][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.29.56:272][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.29.56:272][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.29.56:272][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.29.56:272][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.29.56:272][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.29.56:272][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.29.56:272][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.29.56:273][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.29.56:273][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.29.56:273][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.29.56:275][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.29.56:304][586]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.29.56:304][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.29.56:305][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.29.56:305][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.29.56:305][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.12.27-20.29.56:305][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.12.27-20.29.56:307][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.12.27-20.29.56:307][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.12.27-20.29.56:307][586]LogInit: FAudioDevice initialized with ID 40.
+[2023.12.27-20.29.56:307][586]LogAudio: Display: Audio Device (ID: 40) registered with world 'Map'.
+[2023.12.27-20.29.56:307][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2023.12.27-20.29.56:310][586]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.29.56:311][586]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.29.56
+[2023.12.27-20.29.56:312][586]LogWorld: Bringing up level for play took: 0.001461
+[2023.12.27-20.29.56:314][586]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2023.12.27-20.29.56:317][586]PIE: Server logged in
+[2023.12.27-20.29.56:318][586]PIE: Play in editor total start time 0,086 seconds.
+[2023.12.27-20.29.58:594][809]LogBlueprintUserMessages: [BP_MainCharacter_C_0] Key Collected
+[2023.12.27-20.30.25:659][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.30.25:659][561]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.30.25:659][561]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.30.25:659][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.30.25:664][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.30.25:670][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.30.25:683][561]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.27-20.30.25:684][561]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2023.12.27-20.30.25:684][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.12.27-20.30.25:685][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.12.27-20.30.25:690][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.30.25:692][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.27-20.30.25:772][562]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2023.12.27-20.30.27:089][682]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.30.27:097][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.30.27:097][682]PIE: New page: PIE session: Map (27 de dez de 2023 14:30:27)
+[2023.12.27-20.30.27:118][682]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.30.27:122][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003514s)
+[2023.12.27-20.30.27:122][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003558s)
+[2023.12.27-20.30.27:138][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.12.27-20.30.27:141][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.30.27:141][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.30.27:141][682]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.30.27:142][682]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2023.12.27-20.30.27:142][682]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.12.27-20.30.27:142][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.30.27:142][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.30.27:142][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.30.27:142][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.30.27:142][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.30.27:142][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.30.27:142][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.30.27:142][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.30.27:142][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.30.27:142][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.30.27:143][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.30.27:145][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.30.27:175][682]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.30.27:176][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.30.27:176][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.30.27:176][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.30.27:178][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.12.27-20.30.27:178][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.12.27-20.30.27:179][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.12.27-20.30.27:180][682]LogInit: FAudioDevice initialized with ID 41.
+[2023.12.27-20.30.27:180][682]LogAudio: Display: Audio Device (ID: 41) registered with world 'Map'.
+[2023.12.27-20.30.27:180][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.12.27-20.30.27:180][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2023.12.27-20.30.27:183][682]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.30.27:184][682]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.30.27
+[2023.12.27-20.30.27:184][682]LogWorld: Bringing up level for play took: 0.001470
+[2023.12.27-20.30.27:187][682]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2023.12.27-20.30.27:190][682]PIE: Server logged in
+[2023.12.27-20.30.27:191][682]PIE: Play in editor total start time 0,094 seconds.
+[2023.12.27-20.30.31:527][107]LogBlueprintUserMessages: [BP_MainCharacter_C_0] Key Collected
+[2023.12.27-20.30.39:019][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.30.39:019][854]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.30.39:019][854]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.30.39:020][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.30.39:024][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.30.39:030][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.30.39:046][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.30.39:046][854]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2023.12.27-20.30.39:046][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.12.27-20.30.39:048][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.12.27-20.30.39:055][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.12.27-20.30.39:135][855]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2023.12.27-20.33.07:685][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.12.27-20.33.07:688][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Autosaves/Game/Map_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.27-20.33.07:698][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map_Auto3
+[2023.12.27-20.33.07:699][399]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Map_Auto35194C4C447384677234BD3A7384EF229.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Autosaves/Game/Map_Auto3.umap'
+[2023.12.27-20.33.07:700][399]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Autosaves/Game/Map_Auto3.umap is in the /Temp path, will not scan.
+[2023.12.27-20.33.07:700][399]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Map_Auto3 is in the /Temp path, will not scan.
+[2023.12.27-20.33.07:700][399]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Map_Auto3 is in the /Temp path, will not scan.
+[2023.12.27-20.33.07:700][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map' took 0.035
+[2023.12.27-20.33.07:700][399]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2023.12.27-20.34.50:714][256]BlueprintLog: New page: Compile BP_Checkpoint
+[2023.12.27-20.34.50:752][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.12.27-20.34.51:482][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.34.51:633][314]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.34.51:634][314]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_CheckpointA95EF76C4275FE1DF69FA1A9086BF517.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.34.51:644][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 9.64 sec)
+[2023.12.27-20.34.51:646][314]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.34.51:646][314]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.34.53:030][465]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.34.53:039][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.34.53:039][465]PIE: New page: PIE session: Map (27 de dez de 2023 14:34:53)
+[2023.12.27-20.34.53:039][465]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.34.53:043][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003814s)
+[2023.12.27-20.34.53:043][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003859s)
+[2023.12.27-20.34.53:060][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.12.27-20.34.53:063][465]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.34.53:063][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.34.53:063][465]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.34.53:064][465]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2023.12.27-20.34.53:064][465]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.12.27-20.34.53:064][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.34.53:064][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.34.53:064][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.34.53:064][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.34.53:064][465]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.34.53:064][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.34.53:064][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.34.53:064][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.34.53:064][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.34.53:064][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.34.53:064][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.34.53:066][465]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.34.53:097][465]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.34.53:098][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.34.53:098][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.34.53:098][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.34.53:099][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.12.27-20.34.53:099][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.12.27-20.34.53:101][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.12.27-20.34.53:101][465]LogInit: FAudioDevice initialized with ID 42.
+[2023.12.27-20.34.53:101][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.12.27-20.34.53:101][465]LogAudio: Display: Audio Device (ID: 42) registered with world 'Map'.
+[2023.12.27-20.34.53:101][465]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2023.12.27-20.34.53:160][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.34.53:160][465]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.34.53:162][465]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.34.53
+[2023.12.27-20.34.53:162][465]LogWorld: Bringing up level for play took: 0.002147
+[2023.12.27-20.34.53:165][465]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2023.12.27-20.34.53:171][465]PIE: Server logged in
+[2023.12.27-20.34.53:173][465]PIE: Play in editor total start time 0,134 seconds.
+[2023.12.27-20.34.53:188][465]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.27-20.34.55:838][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.34.55:838][649]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.34.55:839][649]LogSlate: Window 'Platformer3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.27-20.34.55:843][649]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.34.55:844][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.34.55:865][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.34.55:870][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.34.55:887][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.27-20.34.55:887][649]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2023.12.27-20.34.55:887][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.12.27-20.34.55:889][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.12.27-20.34.55:896][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.27-20.34.55:998][650]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2023.12.27-20.35.06:854][847]BlueprintLog: New page: Compile BP_Checkpoint
+[2023.12.27-20.35.06:887][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.27-20.35.07:961][954]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.35.07:968][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.35.07:968][954]PIE: New page: PIE session: Map (27 de dez de 2023 14:35:07)
+[2023.12.27-20.35.07:968][954]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.35.07:971][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003258s)
+[2023.12.27-20.35.07:971][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003294s)
+[2023.12.27-20.35.07:987][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.12.27-20.35.07:990][954]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.35.07:990][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.35.07:991][954]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.35.07:991][954]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2023.12.27-20.35.07:991][954]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.12.27-20.35.07:991][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.35.07:991][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.35.07:991][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.35.07:991][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.35.07:991][954]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.35.07:991][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.35.07:991][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.35.07:991][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.35.07:992][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.35.07:992][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.35.07:992][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.35.07:993][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.35.08:022][954]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.35.08:022][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.35.08:022][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.35.08:022][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.35.08:023][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.12.27-20.35.08:023][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.12.27-20.35.08:024][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.12.27-20.35.08:025][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.12.27-20.35.08:025][954]LogInit: FAudioDevice initialized with ID 43.
+[2023.12.27-20.35.08:025][954]LogAudio: Display: Audio Device (ID: 43) registered with world 'Map'.
+[2023.12.27-20.35.08:025][954]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2023.12.27-20.35.08:075][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.35.08:075][954]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.35.08:077][954]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.35.08
+[2023.12.27-20.35.08:077][954]LogWorld: Bringing up level for play took: 0.001686
+[2023.12.27-20.35.08:079][954]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2023.12.27-20.35.08:084][954]PIE: Server logged in
+[2023.12.27-20.35.08:086][954]PIE: Play in editor total start time 0,119 seconds.
+[2023.12.27-20.35.08:099][954]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.27-20.35.10:308][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.35.10:308][105]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.35.10:310][105]LogSlate: Window 'Platformer3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.27-20.35.10:314][105]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.35.10:314][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.35.10:335][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.35.10:340][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.35.10:357][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.27-20.35.10:357][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2023.12.27-20.35.10:357][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.12.27-20.35.10:360][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.12.27-20.35.10:368][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.12.27-20.35.10:478][106]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2023.12.27-20.35.50:927][654]BlueprintLog: New page: Compile BP_Checkpoint
+[2023.12.27-20.35.50:962][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.12.27-20.35.51:655][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.35.51:764][713]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.35.51:765][713]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_CheckpointE9EFCD4042ACC08BF61BFFB4DA214DE1.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.35.51:775][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 9.76 sec)
+[2023.12.27-20.35.51:776][713]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.35.51:776][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.35.54:173][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.35.54:227][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.27-20.35.54:268][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.27-20.35.54:282][930]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.27-20.35.54:283][930]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/Map3D51798D4917A1B2915DDF812FA7A9CA.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.27-20.35.54:289][930]LogFileHelpers: Saving map 'Map' took 0.062
+[2023.12.27-20.35.54:300][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 9.89 sec)
+[2023.12.27-20.35.54:301][930]AssetCheck: New page: Asset Save: Map
+[2023.12.27-20.35.54:301][930]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.27-20.35.56:659][163]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.35.56:667][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.35.56:667][163]PIE: New page: PIE session: Map (27 de dez de 2023 14:35:56)
+[2023.12.27-20.35.56:699][163]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.35.56:702][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003243s)
+[2023.12.27-20.35.56:702][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003285s)
+[2023.12.27-20.35.56:731][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.27-20.35.56:733][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.35.56:733][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.35.56:733][163]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.35.56:734][163]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2023.12.27-20.35.56:734][163]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.12.27-20.35.56:734][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.35.56:734][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.35.56:734][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.35.56:734][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.35.56:734][163]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.35.56:734][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.35.56:734][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.35.56:734][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.35.56:735][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.35.56:735][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.35.56:735][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.35.56:737][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.35.56:765][163]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.35.56:765][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.35.56:765][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.35.56:765][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.35.56:766][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2023.12.27-20.35.56:766][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2023.12.27-20.35.56:768][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2023.12.27-20.35.56:768][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2023.12.27-20.35.56:768][163]LogInit: FAudioDevice initialized with ID 44.
+[2023.12.27-20.35.56:768][163]LogAudio: Display: Audio Device (ID: 44) registered with world 'Map'.
+[2023.12.27-20.35.56:768][163]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2023.12.27-20.35.56:771][163]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.35.56:773][163]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.35.56
+[2023.12.27-20.35.56:773][163]LogWorld: Bringing up level for play took: 0.001435
+[2023.12.27-20.35.56:775][163]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2023.12.27-20.35.56:777][163]PIE: Server logged in
+[2023.12.27-20.35.56:778][163]PIE: Play in editor total start time 0,112 seconds.
+[2023.12.27-20.36.00:478][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.36.00:478][528]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.36.00:478][528]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.36.00:479][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.36.00:501][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.36.00:506][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.36.00:518][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.36.00:518][528]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2023.12.27-20.36.00:518][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.12.27-20.36.00:520][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.12.27-20.36.00:527][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.12.27-20.36.00:606][529]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.12.27-20.41.38:414][519]BlueprintLog: New page: Compile GM_Platformer3D
+[2023.12.27-20.41.38:471][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.12.27-20.41.39:097][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.41.39:165][575]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Framework/GM_Platformer3D
+[2023.12.27-20.41.39:166][575]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/GM_Platformer3D6FD1CA8A40FA0CD161767E9D8FFA817F.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/GM_Platformer3D.uasset'
+[2023.12.27-20.41.39:176][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 9.97 sec)
+[2023.12.27-20.41.39:178][575]AssetCheck: New page: Asset Save: GM_Platformer3D
+[2023.12.27-20.41.39:178][575]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
+[2023.12.27-20.41.40:273][665]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.41.40:280][665]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.27-20.41.40:281][665]LogPlayLevel: [PlayLevel] Compiling BP_HeightRespawVolume before play...
+[2023.12.27-20.41.40:310][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.12.27-20.41.40:313][665]LogPlayLevel: PlayLevel: Blueprint regeneration took 33 ms (1 blueprints)
+[2023.12.27-20.41.40:313][665]PIE: New page: PIE session: Map (27 de dez de 2023 14:41:40)
+[2023.12.27-20.41.40:359][665]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.41.40:362][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003307s)
+[2023.12.27-20.41.40:362][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003348s)
+[2023.12.27-20.41.40:378][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.12.27-20.41.40:380][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.41.40:380][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.41.40:381][665]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.41.40:381][665]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2023.12.27-20.41.40:381][665]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.12.27-20.41.40:381][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.41.40:381][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.41.40:381][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.41.40:381][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.41.40:381][665]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.41.40:381][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.41.40:381][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.41.40:381][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.41.40:382][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.41.40:382][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.41.40:382][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.41.40:384][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.41.40:413][665]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.41.40:413][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.41.40:413][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.41.40:413][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.41.40:414][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2023.12.27-20.41.40:414][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2023.12.27-20.41.40:416][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2023.12.27-20.41.40:416][665]LogInit: FAudioDevice initialized with ID 45.
+[2023.12.27-20.41.40:416][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2023.12.27-20.41.40:416][665]LogAudio: Display: Audio Device (ID: 45) registered with world 'Map'.
+[2023.12.27-20.41.40:416][665]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2023.12.27-20.41.40:419][665]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.41.40:420][665]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.41.40
+[2023.12.27-20.41.40:420][665]LogWorld: Bringing up level for play took: 0.001531
+[2023.12.27-20.41.40:423][665]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2023.12.27-20.41.40:426][665]PIE: Server logged in
+[2023.12.27-20.41.40:427][665]PIE: Play in editor total start time 0,147 seconds.
+[2023.12.27-20.41.42:589][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.41.42:589][875]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.41.42:589][875]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.41.42:589][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.41.42:594][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.41.42:599][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.41.42:614][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.41.42:615][875]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2023.12.27-20.41.42:615][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.12.27-20.41.42:617][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.12.27-20.41.42:623][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.27-20.41.42:705][876]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2023.12.27-20.41.47:627][281]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.41.47:634][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.41.47:635][281]PIE: New page: PIE session: Map (27 de dez de 2023 14:41:47)
+[2023.12.27-20.41.47:635][281]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.41.47:639][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003981s)
+[2023.12.27-20.41.47:639][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.004033s)
+[2023.12.27-20.41.47:656][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.12.27-20.41.47:660][281]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.41.47:660][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.41.47:660][281]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.41.47:660][281]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2023.12.27-20.41.47:660][281]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.12.27-20.41.47:661][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.41.47:661][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.41.47:661][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.41.47:661][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.41.47:661][281]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.41.47:661][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.41.47:661][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.41.47:661][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.41.47:661][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.41.47:661][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.41.47:661][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.41.47:663][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.41.47:696][281]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.41.47:696][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.41.47:696][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.41.47:696][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.41.47:698][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2023.12.27-20.41.47:698][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2023.12.27-20.41.47:699][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2023.12.27-20.41.47:699][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2023.12.27-20.41.47:699][281]LogInit: FAudioDevice initialized with ID 46.
+[2023.12.27-20.41.47:699][281]LogAudio: Display: Audio Device (ID: 46) registered with world 'Map'.
+[2023.12.27-20.41.47:699][281]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2023.12.27-20.41.47:702][281]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.41.47:704][281]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.41.47
+[2023.12.27-20.41.47:704][281]LogWorld: Bringing up level for play took: 0.001749
+[2023.12.27-20.41.47:706][281]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2023.12.27-20.41.47:709][281]PIE: Server logged in
+[2023.12.27-20.41.47:710][281]PIE: Play in editor total start time 0,076 seconds.
+[2023.12.27-20.41.54:129][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.41.54:129][924]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.41.54:129][924]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.41.54:129][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.41.54:134][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.41.54:139][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.41.54:154][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.27-20.41.54:154][924]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2023.12.27-20.41.54:154][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.12.27-20.41.54:156][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.12.27-20.41.54:161][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.41.54:164][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.27-20.41.54:248][925]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2023.12.27-20.41.56:393][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.41.56:489][132]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.41.56:490][132]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Checkpoint3CA8BDEE48F2842CFB47CD89F61A0A38.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.41.56:501][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 10.0 sec)
+[2023.12.27-20.41.56:502][132]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.41.56:502][132]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.42.15:697][311]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/TeachersMarketplace/Assets/Props/Buttons/Button_A/Material/M_Button_A.M_Button_A
+[2023.12.27-20.42.15:700][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.42.15:700][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.42.16:044][311]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.12.27-20.42.20:960][792]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.42.20:960][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.42.23:091][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.42.23:156][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.27-20.42.23:199][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.27-20.42.23:212][985]LogSavePackage: Moving output files for package: /Game/Map
+[2023.12.27-20.42.23:213][985]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/MapD6A2E818481D06FF5C10BB821E46B30F.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/Map.umap'
+[2023.12.27-20.42.23:220][985]LogFileHelpers: Saving map 'Map' took 0.064
+[2023.12.27-20.42.23:228][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 10.2 sec)
+[2023.12.27-20.42.23:229][985]AssetCheck: New page: Asset Save: Map
+[2023.12.27-20.42.23:229][985]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map.Map
+[2023.12.27-20.42.28:755][564]BlueprintLog: New page: Compile BP_Checkpoint
+[2023.12.27-20.42.28:801][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.27-20.42.29:358][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.42.29:496][611]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.42.29:497][611]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Checkpoint56B054D54F0D466026AD1480BB06A347.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.42.29:507][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 10.3 sec)
+[2023.12.27-20.42.29:508][611]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.42.29:508][611]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.42.30:171][689]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.42.30:178][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.42.30:178][689]PIE: New page: PIE session: Map (27 de dez de 2023 14:42:30)
+[2023.12.27-20.42.30:178][689]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.42.30:182][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003656s)
+[2023.12.27-20.42.30:182][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003688s)
+[2023.12.27-20.42.30:198][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.27-20.42.30:201][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.42.30:201][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.42.30:201][689]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.42.30:201][689]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2023.12.27-20.42.30:201][689]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.12.27-20.42.30:201][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.42.30:201][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.42.30:202][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.42.30:202][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.42.30:202][689]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.42.30:202][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.42.30:202][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.42.30:202][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.42.30:202][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.42.30:202][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.42.30:202][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.42.30:204][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.42.30:233][689]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.42.30:233][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.42.30:233][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.42.30:233][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.42.30:233][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2023.12.27-20.42.30:233][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2023.12.27-20.42.30:235][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2023.12.27-20.42.30:235][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2023.12.27-20.42.30:235][689]LogInit: FAudioDevice initialized with ID 47.
+[2023.12.27-20.42.30:236][689]LogAudio: Display: Audio Device (ID: 47) registered with world 'Map'.
+[2023.12.27-20.42.30:236][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2023.12.27-20.42.30:289][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.42.30:289][689]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.42.30:291][689]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.42.30
+[2023.12.27-20.42.30:291][689]LogWorld: Bringing up level for play took: 0.001915
+[2023.12.27-20.42.30:294][689]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2023.12.27-20.42.30:298][689]PIE: Server logged in
+[2023.12.27-20.42.30:299][689]PIE: Play in editor total start time 0,121 seconds.
+[2023.12.27-20.42.30:311][689]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.27-20.42.33:629][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.42.33:629][925]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.42.33:630][925]LogSlate: Window 'Platformer3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.27-20.42.33:635][925]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.42.33:635][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.42.33:660][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.42.33:665][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.42.33:680][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.27-20.42.33:680][925]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2023.12.27-20.42.33:680][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.12.27-20.42.33:682][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.12.27-20.42.33:689][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.12.27-20.42.33:779][926]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.12.27-20.42.34:665][ 30]LogEditorTransaction: Undo Change Object Pin Value
+[2023.12.27-20.42.36:203][151]BlueprintLog: New page: Compile BP_Checkpoint
+[2023.12.27-20.42.36:246][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.12.27-20.42.43:345][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.42.43:461][953]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.42.43:462][953]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Checkpoint4368D55D4BBDDA97CD0FF78957B3A5AF.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.42.43:472][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 10.4 sec)
+[2023.12.27-20.42.43:473][953]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.42.43:473][953]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.43.10:147][ 47]BlueprintLog: New page: Compile GM_Platformer3D
+[2023.12.27-20.43.10:185][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.27-20.43.11:172][152]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.43.11:179][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.43.11:179][152]PIE: New page: PIE session: Map (27 de dez de 2023 14:43:11)
+[2023.12.27-20.43.11:179][152]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.43.11:183][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003742s)
+[2023.12.27-20.43.11:183][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003779s)
+[2023.12.27-20.43.11:198][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.12.27-20.43.11:201][152]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.43.11:201][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.43.11:202][152]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.43.11:202][152]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2023.12.27-20.43.11:202][152]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.12.27-20.43.11:202][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.43.11:202][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.43.11:202][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.43.11:202][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.43.11:202][152]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.43.11:202][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.43.11:202][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.43.11:202][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.43.11:203][152]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.43.11:203][152]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.43.11:203][152]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.43.11:204][152]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.43.11:233][152]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.43.11:233][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.43.11:233][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.43.11:233][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.43.11:234][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.12.27-20.43.11:234][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.12.27-20.43.11:236][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.12.27-20.43.11:236][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.12.27-20.43.11:236][152]LogInit: FAudioDevice initialized with ID 48.
+[2023.12.27-20.43.11:236][152]LogAudio: Display: Audio Device (ID: 48) registered with world 'Map'.
+[2023.12.27-20.43.11:236][152]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2023.12.27-20.43.11:287][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.43.11:287][152]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.43.11:289][152]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.43.11
+[2023.12.27-20.43.11:289][152]LogWorld: Bringing up level for play took: 0.002146
+[2023.12.27-20.43.11:292][152]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2023.12.27-20.43.11:296][152]PIE: Server logged in
+[2023.12.27-20.43.11:297][152]PIE: Play in editor total start time 0,118 seconds.
+[2023.12.27-20.43.11:308][152]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.27-20.43.15:669][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.43.15:669][481]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.43.15:671][481]LogSlate: Window 'Platformer3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.27-20.43.15:675][481]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.43.15:675][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.43.15:679][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.43.15:684][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.43.15:700][481]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.27-20.43.15:700][481]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2023.12.27-20.43.15:700][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.12.27-20.43.15:702][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.12.27-20.43.15:709][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.27-20.43.15:748][482]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2023.12.27-20.43.26:083][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.43.26:146][698]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Framework/GM_Platformer3D
+[2023.12.27-20.43.26:147][698]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/GM_Platformer3DF009098F44FA088CC0ED7E881B6528E3.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/GM_Platformer3D.uasset'
+[2023.12.27-20.43.26:158][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 10.5 sec)
+[2023.12.27-20.43.26:160][698]AssetCheck: New page: Asset Save: GM_Platformer3D
+[2023.12.27-20.43.26:160][698]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
+[2023.12.27-20.43.26:646][754]BlueprintLog: New page: Compile GM_Platformer3D
+[2023.12.27-20.43.26:677][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.27-20.43.27:552][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.43.27:596][842]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Framework/GM_Platformer3D
+[2023.12.27-20.43.27:597][842]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/GM_Platformer3D3B57B3E44EB66466AE95F69DAAD6CE54.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/GM_Platformer3D.uasset'
+[2023.12.27-20.43.27:606][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 10.6 sec)
+[2023.12.27-20.43.27:608][842]AssetCheck: New page: Asset Save: GM_Platformer3D
+[2023.12.27-20.43.27:608][842]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
+[2023.12.27-20.43.31:358][177]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.43.31:366][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.43.31:366][177]PIE: New page: PIE session: Map (27 de dez de 2023 14:43:31)
+[2023.12.27-20.43.31:398][177]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.43.31:402][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003872s)
+[2023.12.27-20.43.31:402][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003923s)
+[2023.12.27-20.43.31:419][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.12.27-20.43.31:422][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.43.31:422][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.43.31:422][177]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.43.31:423][177]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2023.12.27-20.43.31:423][177]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.12.27-20.43.31:423][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.43.31:423][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.43.31:423][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.43.31:423][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.43.31:423][177]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.43.31:423][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.43.31:423][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.43.31:423][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.43.31:423][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.43.31:423][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.43.31:423][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.43.31:426][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.43.31:454][177]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.43.31:454][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.43.31:454][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.43.31:454][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.43.31:455][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2023.12.27-20.43.31:455][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2023.12.27-20.43.31:457][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2023.12.27-20.43.31:457][177]LogInit: FAudioDevice initialized with ID 49.
+[2023.12.27-20.43.31:457][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2023.12.27-20.43.31:457][177]LogAudio: Display: Audio Device (ID: 49) registered with world 'Map'.
+[2023.12.27-20.43.31:457][177]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2023.12.27-20.43.31:459][177]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.43.31:461][177]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.43.31
+[2023.12.27-20.43.31:461][177]LogWorld: Bringing up level for play took: 0.001725
+[2023.12.27-20.43.31:463][177]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2023.12.27-20.43.31:466][177]PIE: Server logged in
+[2023.12.27-20.43.31:467][177]PIE: Play in editor total start time 0,102 seconds.
+[2023.12.27-20.43.40:371][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.43.40:371][997]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.43.40:371][997]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.43.40:371][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.43.40:377][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.43.40:381][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.43.40:397][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.27-20.43.40:397][997]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2023.12.27-20.43.40:397][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.12.27-20.43.40:399][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.12.27-20.43.40:404][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.43.40:406][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.27-20.43.40:492][998]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2023.12.27-20.43.58:421][970]BlueprintLog: New page: Compile BP_Checkpoint
+[2023.12.27-20.43.58:470][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.12.27-20.43.59:717][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.27-20.43.59:724][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.27-20.43.59:724][ 66]PIE: New page: PIE session: Map (27 de dez de 2023 14:43:59)
+[2023.12.27-20.43.59:748][ 66]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2023.12.27-20.43.59:752][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004055s)
+[2023.12.27-20.43.59:752][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.004105s)
+[2023.12.27-20.43.59:767][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.27-20.43.59:771][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.27-20.43.59:771][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.27-20.43.59:771][ 66]LogAIModule: Creating AISystem for world Map
+[2023.12.27-20.43.59:771][ 66]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2023.12.27-20.43.59:772][ 66]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.12.27-20.43.59:772][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.27-20.43.59:772][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.27-20.43.59:772][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.27-20.43.59:772][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.27-20.43.59:772][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.27-20.43.59:772][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.27-20.43.59:772][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.27-20.43.59:772][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.27-20.43.59:772][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.27-20.43.59:772][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.27-20.43.59:772][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.27-20.43.59:775][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.27-20.43.59:803][ 66]LogAudioMixer: Display: Using Audio Hardware Device Alto Falante (Realtek(R) Audio)
+[2023.12.27-20.43.59:803][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.27-20.43.59:803][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.27-20.43.59:803][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.27-20.43.59:804][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2023.12.27-20.43.59:804][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2023.12.27-20.43.59:806][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2023.12.27-20.43.59:806][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2023.12.27-20.43.59:806][ 66]LogInit: FAudioDevice initialized with ID 50.
+[2023.12.27-20.43.59:806][ 66]LogAudio: Display: Audio Device (ID: 50) registered with world 'Map'.
+[2023.12.27-20.43.59:806][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2023.12.27-20.43.59:809][ 66]LogLoad: Game class is 'GM_Platformer3D_C'
+[2023.12.27-20.43.59:811][ 66]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.12.27-17.43.59
+[2023.12.27-20.43.59:811][ 66]LogWorld: Bringing up level for play took: 0.001785
+[2023.12.27-20.43.59:813][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2023.12.27-20.43.59:816][ 66]PIE: Server logged in
+[2023.12.27-20.43.59:817][ 66]PIE: Play in editor total start time 0,093 seconds.
+[2023.12.27-20.44.02:488][331]LogBlueprintUserMessages: [GM_Platformer3D_C_0] Hello
+[2023.12.27-20.44.03:987][483]LogBlueprintUserMessages: [GM_Platformer3D_C_0] Hello
+[2023.12.27-20.44.04:648][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.44.04:649][546]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2023.12.27-20.44.04:649][546]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.12.27-20.44.04:649][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.44.04:675][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.27-20.44.04:680][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.27-20.44.04:694][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.27-20.44.04:695][546]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2023.12.27-20.44.04:695][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.12.27-20.44.04:697][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.12.27-20.44.04:702][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.27-20.44.04:704][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.27-20.44.04:789][547]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2023.12.27-20.44.06:648][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.44.06:754][731]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.44.06:755][731]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_CheckpointE7AF945D4A96D026FF11559C1C3A6D00.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.44.06:766][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 10.7 sec)
+[2023.12.27-20.44.06:767][731]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.44.06:767][731]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.44.14:765][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.44.14:827][370]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint
+[2023.12.27-20.44.14:828][370]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/BP_Checkpoint833201D94623A2207CE21784BA7BD517.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/RespawSystem/BP_Checkpoint.uasset'
+[2023.12.27-20.44.14:839][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 10.8 sec)
+[2023.12.27-20.44.14:840][370]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2023.12.27-20.44.14:840][370]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/RespawSystem/BP_Checkpoint.BP_Checkpoint
+[2023.12.27-20.44.20:846][ 68]BlueprintLog: New page: Compile GM_Platformer3D
+[2023.12.27-20.44.20:886][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.27-20.44.21:737][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.44.21:795][151]LogSavePackage: Moving output files for package: /Game/3DPlatformer/Core/Framework/GM_Platformer3D
+[2023.12.27-20.44.21:796][151]LogSavePackage: Moving 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Saved/GM_Platformer3D739CE1074B88B7E99CF211A2BB036822.tmp' to 'E:/Usuarios/Percival/Documents/Meus jogos/Aulas/UNF Unreal/Platformer3D/Content/3DPlatformer/Core/Framework/GM_Platformer3D.uasset'
+[2023.12.27-20.44.21:806][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 10.8 sec)
+[2023.12.27-20.44.21:807][151]AssetCheck: New page: Asset Save: GM_Platformer3D
+[2023.12.27-20.44.21:807][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3DPlatformer/Core/Framework/GM_Platformer3D.GM_Platformer3D
